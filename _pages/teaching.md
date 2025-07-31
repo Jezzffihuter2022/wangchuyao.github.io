@@ -11,10 +11,10 @@ I integrate real-world examples, responsible use of generative AI, and flipped c
 
 I have taught 3 undergraduate and postgraduate courses across 7 terms in social sciences and quantitative methods, receiving formal pedagogical training and achieving excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**
 
-### London School of Economics
+### London School of Economics and Political Science
 
 **MY464 - Introduction to Quantitative Analysis for Media and Communications**  
-Graduate Course, Department of Media and Communications  
+Graduate Course, Department of Methodology 
 
 ### Hong Kong University of Science and Technology
 
@@ -26,13 +26,11 @@ Undergraduate Course, Division of Social Science
 
 ## Pedagogical Training
 
-**Introduction to Teaching and Learning in Higher Education** (PDEV6800I)  
+**PDEV6800I - Introduction to Teaching and Learning in Higher Education** (3 terms)  
 Hong Kong University of Science and Technology  
-Completed: 3 terms
 
-**Professional Development for Research Postgraduate Students** (PDEV6770D)  
+**PDEV6770D - Professional Development for Research Postgraduate Students** (3 terms)  
 Hong Kong University of Science and Technology  
-Completed: 3 terms
 
 ## Teaching Interests
 
