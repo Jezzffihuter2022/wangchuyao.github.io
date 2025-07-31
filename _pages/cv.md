@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full CV (PDF)](/files/ChuyaoWANG-LSE-CV.pdf)
+[Download Full CV (PDF)](/files/ChuyaoWANG_LSE_CV.pdf)
 
 Education
 ======
