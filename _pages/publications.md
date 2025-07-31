@@ -42,7 +42,7 @@ Sole author; under review at *International Journal of Press/Politics*; IF = 4.3
 
 ## Working Papers
 
-**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms**  
+**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitute**  
 First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n=3,100)
