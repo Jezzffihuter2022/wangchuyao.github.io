@@ -7,7 +7,7 @@ author_profile: true
 
 Why do well-intended strategies in political communication sometimes backfire, eroding trust or distorting perceptions? As a scholar working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often in unintended ways. To investigate these dynamics, I employ a mixed-methods approach combining survey experiments, computational text and image analysis, AI-powered simulations, and case studies.
 
-This research program has produced 8 papers (5 as first author, 6 as corresponding author), including work published in *Humanities and Social Sciences Communications*, manuscripts under review at *Nature Communications*, *Technology in Society*, *International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My findings have been presented at flagship conferences across disciplines, namely APSA, ICA, ASA, and IC2S2. My working papers are supported by competitive grants from LSE, OpenAI, and Google.
+This research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, manuscripts under review at *Nature Communications*, *Technology in Society*, *International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My findings have been presented at flagship conferences across disciplines, namely APSA, ICA, ASA, and IC2S2. My working papers are supported by competitive grants from LSE, OpenAI, and Google.
 
 ## Publication
 
