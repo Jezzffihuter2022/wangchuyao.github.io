@@ -21,7 +21,7 @@ My research examines:
 - Applications of AI in social sciences
 - Human-AI interaction and its sociopolitical impacts
 
-I have authored 8 research papers, including publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Technology in Society*, *PNAS Nexus*, and and in progress for *Nature Human Behaviour*, and other journals.
+My 8 research papers include publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Technology in Society*, and *PNAS Nexus*, and work in progress for *Nature Human Behaviour*.
 
 As Principal Investigator, I have secured competitive grants from LSE, OpenAI, and Google. I am committed to excellence in research, teaching, and service.
 
