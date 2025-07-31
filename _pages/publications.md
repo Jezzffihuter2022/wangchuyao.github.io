@@ -23,7 +23,7 @@ Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (N
 
 **[2] AI Labeling Reduces the Perceived Accuracy of Online Content but Has Limited Broader Effects** (Job Market Paper) 
 First and corresponding author; under review at *Nature Communications*; IF = 15.7, SCI Q1  
-[Full text at arXiv](https://arxiv.org/your-link)
+Full text at [arXiv](https://arxiv.org/pdf/2506.16202)
 
 Abstract 
 
@@ -36,7 +36,7 @@ Second author; under review at *Technology in Society*; IF = 12.5, SSCI Q1
 
 **[4] Framing Trump in Chinese and US News: A Computational Visual Analysis**  
 Sole author; under review at *International Journal of Press/Politics*; IF = 4.3, SSCI Q1  
-[Abstract at SSRN](your-ssrn-link)
+Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 - Applied machine learning on 257,056 images to reveal visual framing bias
 - Found Chinese media portray Trump as more negative and less trustworthy than US media
 
@@ -52,9 +52,9 @@ Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
 - Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
 - Demonstrated how regulatory intervention induces online self-censorship
 
-**[7] How AI Labeling Affects Policy Support in Social Networks**  
+**[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
 Second and corresponding author; for *Political Analysis*; IF = 5.4, SSCI Q1  
-[Extended abstract at SSRN](your-link)
+Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
 Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
