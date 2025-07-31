@@ -14,17 +14,13 @@ I am a PhD researcher in the Department of Methodology at the London School of E
 
 ## Overview
 
-My research examines:
+My research includes:
 - AI governance and policy
 - Political communication in the digital age
-- Computational social science methods
+- Computational social science
 - Applications of AI in social sciences
 - Human-AI interaction and its sociopolitical impacts
 
-My 8 research papers include publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Technology in Society*, and *PNAS Nexus*, and work in progress for *Nature Human Behaviour*.
+My 8 research papers include publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Technology in Society*, and *PNAS Nexus*, and work in progress for *Nature Human Behaviour*. My current work investigates how human-AI feedback loop shape public opinion and policy support.
 
-As Principal Investigator, I have secured competitive grants from LSE, OpenAI, and Google. I am committed to excellence in research, teaching, and service.
-
-## Current Projects
-
-My current work investigates how AI systems shape public opinion and policy support, focusing on human-AI feedback loops. I employ survey experiments, computational text analysis, applied machine learning, and social simulations to understand these phenomena.
+As Principal Investigator, I have secured competitive grants from LSE, OpenAI, and Google. I am committed to excellence in teaching, mentorship, and service, particularly in advancing innovative and socially relevant scholarship.
