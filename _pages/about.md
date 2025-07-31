@@ -12,12 +12,12 @@ I am a PhD researcher in the Department of Methodology at the London School of E
 
 ## Research Interests
 
-My research focus on:
+My research focuses on:
 - AI governance and policy
 - Political communication in the digital age  
-- Computational social science methods
+- Computational social science
 - Applications of AI in social sciences
-- Human-AI interaction and its societal impacts
+- Human-AI interaction and its sociopolitical impacts
 
 I have authored or co-authored 8 research papers, including publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Nature Human Behaviour*, and *PNAS Nexus*.
 
