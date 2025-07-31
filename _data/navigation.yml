@@ -10,7 +10,7 @@
 main:
     
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Grants"
     url: /grants/  
