@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in the Department of Methodology at the London School of Economics and Political Science (LSE), affiliated with the LSE Data Science Institute. I will be a Visiting Assistant in Research at Yale University's Department of Political Science. 
+I am a PhD researcher in the Department of Methodology at the London School of Economics and Political Science (LSE), affiliated with the LSE Data Science Institute. I will be a Visiting Assistant in Research at Yale University's Department of Political Science. Please see and download my [Full CV](/files/ChuyaoWANG_LSE_CV.pdf)
 
 **I am on the job market for Assistant Professor and postdoctoral positions starting in 2026.**
 
