@@ -1,9 +1,6 @@
 ---
 title: "Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China"
 collection: publications
-permalink: /publication/2025-conspiracy-theories
-excerpt: 'This paper analyzes authoritarian governance of conspiracy theories through propagation, tolerance, and rebuttal strategies.'
-date: 2025-01-01
 venue: 'Humanities and Social Sciences Communications'
 paperurl: 'https://www.nature.com/articles/s41599-024-04350-1'
 ---
