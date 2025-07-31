@@ -42,15 +42,15 @@ Sole author; under review at *International Journal of Press/Politics*; IF = 4.3
 
 ## Working Papers
 
-**[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
-Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
-- Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
-- Demonstrated how regulatory intervention induces online self-censorship
-
-**[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms**  
+**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms**  
 First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n=3,100)
+
+**[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
+Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
+- Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
+- Demonstrated how regulatory intervention induces online self-censorship
 
 **[7] How AI Labeling Affects Policy Support in Social Networks**  
 Second and corresponding author; for *Political Analysis*; IF = 5.4, SSCI Q1  
