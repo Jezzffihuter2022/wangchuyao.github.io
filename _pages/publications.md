@@ -13,7 +13,7 @@ This research program has produced 8 papers (5 as first author, 6 as correspondi
 
 **[1] Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China**  
 Co-first and corresponding author, *Humanities and Social Sciences Communications*, 2025; IF = 3.6, SSCI Q1  
-[Full text](https://www.nature.com/articles/s41599-024-04350-1) published on nature.com (Nature Portfolio)
+Published on [nature.come](https://www.nature.com/articles/s41599-024-04350-1) (Nature Portfolio)
 
 Abstract 
 
