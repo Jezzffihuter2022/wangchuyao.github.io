@@ -13,9 +13,9 @@ My academic service spans peer review, institutional development, and community 
 *Humanities and Social Sciences Communications* (Nature Portfolio)
 
 **Conference Reviewer**  
-- International Conference on Computational Social Science (IC2S2): 2024, 2025
-- International Communication Association (ICA): 2024, 2025  
-- National Communication Association (NCA): 2024
+International Conference on Computational Social Science (IC2S2): 2024, 2025
+International Communication Association (ICA): 2024, 2025  
+National Communication Association (NCA): 2024
 
 ## Institutional Development
 
