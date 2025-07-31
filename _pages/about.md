@@ -27,4 +27,4 @@ As Principal Investigator, I have secured competitive grants from LSE, OpenAI, a
 
 ## Current Projects
 
-My current work investigates how AI systems shape public opinion and policy support, focusing on human-AI feedback loops. I employ survey experiments, computational text analysis, applied machine learning, and social simulations to understand these complex phenomena.
+My current work investigates how AI systems shape public opinion and policy support, focusing on human-AI feedback loops. I employ survey experiments, computational text analysis, applied machine learning, and social simulations to understand these phenomena.
