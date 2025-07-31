@@ -9,56 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV (PDF)](/files/Wang_CV_2025.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Social Research Methods, London School of Economics, 2022-2026 (expected)
+  * Ph.D. Affiliate, LSE Data Science Institute
+  * Supervisors: Patrick Sturgis F.B.A. and Daniel De Kadt
+* Visiting Assistant in Research, Yale University, 2025
+* M.Phil. in Social Science, Hong Kong University of Science and Technology, 2020-2022
+* M.Sc. in Global China Studies, HKUST, 2019-2020 (Dean's Award)
+* B.A. in History (Economic History), Shandong University, 2016-2020
 
-Work experience
+Research Grants
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research and Impact Support Fund (AI Spotlight Call), £4,817, LSE, 2024-25
+* OpenAI's Researcher Access Program, $5,000, OpenAI, 2024-25
+* Google Cloud Research Credits, $1,000, Google, 2024-25
+* ACM WebSci24 Student Grant, €500, ACM, 2024
+* SICSS Research Grant, Social Science Research Council, 2021
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* LSE Ph.D. Studentship, £170,000, 2022-26
+* Hong Kong Ph.D. Fellowship, HK$1,010,000 (Declined)
+* Postgraduate Studentship, HK$ 430,000
+* Dean's Award, HKUST, 2020
