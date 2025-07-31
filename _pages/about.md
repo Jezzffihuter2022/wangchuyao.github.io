@@ -8,26 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at the Department of Methodology London School of Economics and Political Science (LSE), studying AI governance, political communication, and AI in social sciences using computational and experimental methods. I am affiliated with the LSE Data Science Institute and am Visiting at Department of Political Science, Yale University in 2025.
+I am a PhD researcher in the Department of Methodology at the London School of Economics and Political Science (LSE). I study AI governance, political communication, and AI in social sciences through computational and experimental methods. I am affiliated with the LSE Data Science Institute and will be a Visiting Assistant in Research at Yale University's Department of Political Science in 2025.
 
 ## Research Interests
 
-My research focuses on the intersection of artificial intelligence and society, particularly:
+My research examines the intersection of artificial intelligence and society, with particular focus on:
 - AI governance and policy
-- Political communication in the digital age
-- Computational social science
-- AI for social sciences
+- Political communication in the digital age  
+- Computational social science methods
+- Applications of AI in social sciences
 - Human-AI interaction and its societal impacts
 
-I have authored 8 research papers, with publications in high-impact journals including *Nature Communications* (under review), *Humanities and Social Sciences Communications*, and manuscripts for *Nature Human Behaviour* and *PNAS Nexus*.
+I have authored 8 research papers, including publications in *Humanities and Social Sciences Communications* (Nature Portfolio), with manuscripts under review at *Nature Communications*, *Nature Human Behaviour*, and *PNAS Nexus*.
+
+As Principal Investigator, I have secured competitive grants from LSE, OpenAI, and Google, supporting interdisciplinary research on AI's societal implications.
 
 ## Current Projects
 
-I am currently working on understanding how AI systems shape public opinion and policy support, and the AI-human feedback loop. My work combines survey experiments, computational text analysis, and social simulations to examine these phenomena.
-
-## News
-
-- **2025**: My job market paper "AI labeling reduces the perceived accuracy of online content but has limited broader effects" is preprint at arXiv
-- **2025**: Published "Panacea or Pandora's Box" in *Humanities and Social Sciences Communications* (a Nature Portofilo journal)
-- **2024**: Awarded Research and Impact Support Fund (AI Spotlight Call) from LSE
-- **2024**: Received OpenAI's Researcher Access Program grant for studying LLM sycophancy
+My current work investigates how AI systems shape public opinion and policy support, focusing on human-AI feedback loops. I employ survey experiments, computational text analysis, applied machine learning and social simulations to understand these complex phenomena.
