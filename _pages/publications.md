@@ -14,10 +14,11 @@ This research program has produced 8 papers (5 as first author, 6 as correspondi
 **[1] Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China**  
 Co-first and corresponding author, *Humanities and Social Sciences Communications*, 2025; IF = 3.6, SSCI Q1  
 Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (Nature Portfolio)
+Highlighted by LSE DSI on \href{https://www.linkedin.com/feed/update/urn:li:activity:7338216361464127490/}{LinkedIn}, \href{https://x.com/lsedatascience/status/1932453471413760431?s=46}{X}, and official newsletter
 
-Abstract 
-
-This study examines the Chinese government’s strategies for managing conspiracy theories (CTs) on social media. While previous research has primarily considered how authoritarian regimes disseminate CTs for political purposes and has often viewed the public as fully receptive to propaganda and easily manipulated, our research explores a broader spectrum of state strategies including propagation, tolerance, and partial rebuttal. Based on social network analysis, topic modeling, and qualitative analysis of 46,387 Weibo posts from 3 cases, we argue that the Chinese government’s manipulation of CTs is multifaceted and carries significant audience costs. Our findings indicate that state-led CTs can indeed mobilize public opinion, but they also risk expanding beyond state control, which can lead to unintended consequences that may undermine state interests and limit policy flexibility. This research contributes to our understanding of the tactical and operational complexities authoritarian regimes face when leveraging CTs, while highlighting the intricate balance between state control and public agency.
+- Analyzed authoritarian governance of conspiracy theories (CTs) via propagation, tolerance, and rebuttal 
+- Combined qualitative case analysis, social network analysis, and topic modeling of 46,387 Weibo posts
+- Found that diverse CT governance strategies mobilize public opinion but risk loss of control and backlash
 
 ## Under Review
 
