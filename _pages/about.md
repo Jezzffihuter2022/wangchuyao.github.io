@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in the Department of Methodology at the London School of Economics and Political Science (LSE), affiliated with the LSE Data Science Institute. I will be a Visiting Assistant in Research at Yale University's Department of Political Science in 2025.
+I am a PhD researcher in the Department of Methodology at the London School of Economics and Political Science (LSE), affiliated with the LSE Data Science Institute. I will be a Visiting Assistant in Research at Yale University's Department of Political Science in 2025. I received MPhil in Social Science and MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology. I obtained BA in History (Economic History) from Shandong University.
 
 **I am on the job market for Assistant Professor and postdoctoral positions starting in 2026.**
 
