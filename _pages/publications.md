@@ -40,12 +40,12 @@ Sole author; under review at *International Journal of Press/Politics*; IF = 4.3
 - Applied machine learning on 257,056 images to reveal visual framing bias
 - Found Chinese media portray Trump as more negative and less trustworthy than US media
 
-**[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using LLM**  
+## Working Papers
+
+**[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
 Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
 - Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
 - Demonstrated how regulatory intervention induces online self-censorship
-
-## Working Papers
 
 **[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms**  
 First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
