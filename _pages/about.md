@@ -23,4 +23,4 @@ My 8 research papers include publications in *Humanities and Social Sciences Com
 
 As Principal Investigator, I have secured competitive grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service, particularly in advancing innovative, interdisciplinary and impactful scholarship.
 
-I received MPhil in Social Science (with full funding) and MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology. I obtained BA in History (Economic History) from Shandong University.
+I received MPhil in Social Science (with full funding) and MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology (HKUST). I obtained BA in History (Economic History) from Shandong University (SDU).
