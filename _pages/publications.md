@@ -13,7 +13,7 @@ author_profile: true
 
 **[1] Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China**  
 Co-first and corresponding author, *Humanities and Social Sciences Communications*, 2025; IF = 3.6, SSCI Q1  
-[Full text](https://www.nature.com/articles/s41599-024-04350-1) | Published on nature.com (Nature Portfolio)
+[Full text](https://www.nature.com/articles/s41599-024-04350-1) published on nature.com (Nature Portfolio)
 
 *Abstract* 
 
