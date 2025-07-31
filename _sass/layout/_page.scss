@@ -11,32 +11,55 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  /* Only increase padding on larger screens */
+  @include breakpoint($medium) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1400px;
   }
 }
 
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include prefix(1 of 12);
+    @include suffix(1 of 12);
   }
 
   .page__inner-wrap {
     @include full();
+    
+    /* Only add extra padding on larger screens */
+    @include breakpoint($large) {
+      padding-left: 3em;
+      padding-right: 1em;
+    }
 
     .page__content,
     .page__meta,
     .page__share {
       @include full();
+      
+      /* Only limit width on larger screens */
+      @include breakpoint($large) {
+        max-width: 900px;
+      }
     }
   }
 }
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+
+  /* Larger margins on bigger screens */
+  @include breakpoint($large) {
+    margin-bottom: 1em;
+  }
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -46,13 +69,30 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  margin-bottom: 1em;
+  
+  @include breakpoint($large) {
+    margin-bottom: 1.5em;
+  }
 }
 
 .page__content {
+  line-height: 1.6;
+  
+  /* Better typography on larger screens */
+  @include breakpoint($large) {
+    font-size: 1.05em;
+    line-height: 1.7;
+  }
 
   h2 {
     padding-bottom: 0.5em;
+    margin-top: 1em;
     border-bottom: 1px solid var(--global-border-color);
+    
+    @include breakpoint($large) {
+      margin-top: 1.5em;
+    }
   }
 
   p, li, dl {
@@ -62,12 +102,29 @@
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    
+    @include breakpoint($large) {
+      margin: 0 0 1.2em;
+    }
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
+      }
+    }
+  }
+
+  /* Better list spacing on desktop */
+  ul, ol {
+    margin-bottom: 1em;
+    
+    @include breakpoint($large) {
+      margin-bottom: 1.2em;
+      
+      li {
+        margin-bottom: 0.4em;
       }
     }
   }
@@ -133,8 +190,13 @@
       padding-left: 1em;
       padding-right: 1em;
 
+      @include breakpoint($medium) {
+        padding-left: 2em;
+        padding-right: 2em;
+      }
+
       @include breakpoint($x-large) {
-        max-width: $x-large;
+        max-width: 1400px;
       }
     }
 
