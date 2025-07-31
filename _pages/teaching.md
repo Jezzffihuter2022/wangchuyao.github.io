@@ -14,14 +14,17 @@ I have taught 3 undergraduate and postgraduate courses across 7 terms in social 
 ### London School of Economics and Political Science
 
 **MY464 - Introduction to Quantitative Analysis for Media and Communications**  
+
 Graduate Course, Department of Methodology 
 
 ### Hong Kong University of Science and Technology
 
 **SOSC1190 - China and the World: China's Development in Historical and Comparative Perspectives** (3 terms)
+
 Undergraduate Course, Division of Social Science  
 
 **SOSC1470 - Political and Economic Development of Modern Japan** (3 terms)  
+
 Undergraduate Course, Division of Social Science
 
 ## Pedagogical Training
