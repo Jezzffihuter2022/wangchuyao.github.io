@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching, to me, is not only the transmission of knowledge but also the cultivation of conceptual agility and reflective judgment. I view education as a transformative process that equips students to reason across disciplines, interpret plural epistemologies, and act with civic awareness.
+Teaching, to me, is not only the transmission of knowledge but also the cultivation of conceptual agility, analytical rigor and reflective judgment. I view education as a transformative process that equips students to reason across disciplines, interpret plural epistemologies, and act with confidence in their pursuits.
 
 I integrate real-world examples, responsible use of generative AI, and flipped classroom approaches with up-to-date materials. I design content responsive to students' varied academic backgrounds, drawing on my own interdisciplinary journey. I encourage social science students to learn advanced research methods through conceptually grounded, narrative-based approaches.
 
