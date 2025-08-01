@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-As a researcher engaged in interdisciplinary scholarship, I contribute to academic service through reviewing, organizing institutional networks, and convening academic events.
+I contribute to academic service through reviewing, organizing institutional networks, community building, and stakeholder outreach.
 
 ## Institutional Development
 
