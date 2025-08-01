@@ -12,8 +12,8 @@ Welcome! I study how algorithmic systems and digital infrastructures shape publi
 
 **I am on the job market for Assistant Professor and postdoctoral positions starting in 2026.**
 
-**Substantively**, my research examines how algorithmic systems and digital governance shape public reasoning, trust, and political legitimacy. I investigate phenomena such as AI labeling, large language model (LLM) sycophancy, content moderation, and expert–bureaucrat collaboration in AI deployment.  
-**Methodologically**, I combine survey and field experiments, LLM-based simulations, computational text and image analysis, and causal inference methods, with particular attention to heterogeneous treatment effects and human–AI co-production.
+**Substantively**, I explore how political institutions and algorithmic technologies jointly shape public reasoning, trust, and policy legitimacy. I focus on phenomena such as AI labeling, LLM sycophancy, and human–AI interaction in policy and communication settings.
+**Methodologically**, I integrate survey and field experiments with computational approaches—particularly language model–driven simulations and text/image analysis—to examine causal mechanisms and heterogeneous treatment effects in public opinion and digital governance.
 
 I have authored eight research papers, including a publication in *Humanities and Social Sciences Communications* (Nature Portfolio). My manuscripts are currently under review at *Nature Communications*, *Technology in Society*, and *International Journal of Press/Politics*, with additional work in progress for *Nature Human Behaviour*.  
 My current project investigates how human–AI feedback loops influence public opinion formation and policy support.
