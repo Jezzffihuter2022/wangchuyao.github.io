@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Chuyao"
-excerpt: "About me"
+title: "Overview"
+excerpt: "AI Governance, Political Communication, Computational Social Science"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,4 @@ I have authored 8 papers, including publications, manuscripts under review, and 
 
 As Principal Investigator, I have secured competitive grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service, particularly in advancing innovative, interdisciplinary and impactful scholarship.
 
-I obtained an MPhil in Social Science (full funded) and an MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology (HKUST). I hold BA in History (Economic History) from Shandong University (SDU).
+I obtained an MPhil in Social Science (full funded) and an MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology (HKUST). I hold BA in History (Economic History) from Shandong University (SDU).  
