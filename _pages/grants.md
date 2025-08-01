@@ -5,7 +5,9 @@ permalink: /grants/
 author_profile: true
 ---
 
-I have secured a total amount of US$1,050,000 in competitive research funding and academic awards, all as the sole Principal Investigator (PI). This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract further support for my research program.
+I have secured a total amount of **US$1,050,000 in research grants and academic awards**, all as the sole Principal Investigator (PI). 
+
+This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract further support for my research program.
 
 ## Research Grants
 **6 grants** (4 external and 2 university level)
