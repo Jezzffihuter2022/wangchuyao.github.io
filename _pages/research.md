@@ -47,7 +47,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 **[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitute**  
 First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
 - Investigated how LLMs' sycophancy produces biased information
-- Designed personalized human-AI conversational survey experiment (n=3,100)
+- Designed personalized human-AI conversational survey experiment (n = 3,100)
 
 **[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
 Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
