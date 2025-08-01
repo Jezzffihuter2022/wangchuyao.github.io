@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chuyao's Personal Website"
+title                    : "Chuyao's Academic Website"
 title_separator          : "-"
 name                     : &name "Chuyao (Julian) WANG <br> 汪楚尧"
 description              : &description "PhD Researcher in AI governance, political communication, and computational social science"
