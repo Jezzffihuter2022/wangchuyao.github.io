@@ -9,7 +9,7 @@ Teaching, to me, is not only the transmission of knowledge but also the cultivat
 
 I embrace interactive teaching by integrating up-to-date examples, encouraging students' responsible use of generative AI, and flipped classroom approaches. To accommodate students’ diverse academic and cultrual backgrounds, I design course content that is both flexible and grounded, drawing on my interdisciplinary training across history, social science, and computational methods. In particular, I encourage social science students to approach advanced research methods through conceptually grounded, narrative-based learning, which helps bridge abstract techniques and real-world applications.
 
-I have taught **3 undergraduate and postgraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and have consistently acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
+I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and have consistently acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
 
 ## Teaching Experience
 
