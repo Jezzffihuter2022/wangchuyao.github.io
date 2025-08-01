@@ -15,7 +15,7 @@ Welcome! I study how algorithmic systems and digital infrastructures shape publi
 **Substantively**, I explore how political institutions and algorithmic technologies jointly shape public reasoning, trust, and policy legitimacy. I focus on phenomena such as AI labeling, LLM sycophancy, and human–AI interaction in policy and communication settings.
 **Methodologically**, I integrate survey and field experiments with computational approaches—particularly language model–driven simulations and text/image analysis—to examine causal mechanisms and heterogeneous treatment effects in public opinion and digital governance.
 
-I have authored eight papers, including publications, manuscripts under review, and works in progress for leading interdisciplinary and political communication journals. This includes my job market paper under review at *Nature Communications*, and a publication in *Humanities and Social Sciences Communications* (Nature Portfolio).
+I have authored 8 papers, including publications, manuscripts under review, and works in progress for leading interdisciplinary and political communication journals. This includes my [*job market paper*](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [*publication*](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio).
 
 As Principal Investigator, I have secured competitive grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service, particularly in advancing innovative, interdisciplinary and impactful scholarship.
 
