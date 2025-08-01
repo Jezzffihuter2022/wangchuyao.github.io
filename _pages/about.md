@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I study how algorithmic systems and digital infrastructures shape public reasoning, trust, and political legitimacy, using computational and experimental methods. 
+Welcome! I study how algorithmic systems and political infrastructure jointly shape public reasoning and political trust, using computational and experimental methods. 
 
 I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf).
 
