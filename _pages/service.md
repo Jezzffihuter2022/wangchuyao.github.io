@@ -16,7 +16,7 @@ Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Instit
 - Contributed to strategic planning and external stakeholder engagement
   
 **Convenor and Presenter**  
-Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025
+Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025-26
 
 ## Editorial Service
 
