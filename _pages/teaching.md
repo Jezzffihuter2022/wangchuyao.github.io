@@ -9,7 +9,7 @@ I approach teaching as a process of equipping students with conceptual clarity, 
 
 Specifically, I integrate interactive methods such as flipped classrooms, real-world case studies, and generative AI tools to foster applied learning. I design course content that accommodates students’ diverse academic and cultural backgrounds, drawing on my interdisciplinary training. For social science students, I emphasize conceptually grounded approaches to advanced research methods, helping them connect theoretical debates with empirical inquiry.
 
-I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and have consistently acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
+I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
 
 ## Teaching Experience
 
