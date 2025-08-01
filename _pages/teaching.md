@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching, to me, is not only the transmission of knowledge but also the cultivation of conceptual agility, analytical rigor and reflective judgment. I view education as a transformative process that equips students to reason across disciplines, interpret plural epistemologies, and act with confidence in their pursuits.
+Teaching, to me, is not only the transmission of knowledge but also the cultivation of conceptual agility, analytical rigor, and reflective judgment. I view education as a transformative process that equips students to reason across disciplines, interpret plural epistemologies, and act with confidence in their pursuits.
 
-I integrate real-world examples, responsible use of generative AI, and flipped classroom approaches with up-to-date materials. I design content responsive to students' varied academic backgrounds, drawing on my own interdisciplinary journey. I encourage social science students to learn advanced research methods through conceptually grounded, narrative-based approaches.
+I embrace interactive teaching by integrating up-to-date examples, encouraging students' responsible use of generative AI, and flipped classroom approaches. To accommodate students’ diverse academic and cultrual backgrounds, I design course content that is both flexible and grounded, drawing on my interdisciplinary training across history, social science, and computational methods. In particular, I encourage social science students to approach advanced research methods through conceptually grounded, narrative-based learning, which helps bridge abstract techniques and real-world applications.
 
-I have taught 3 undergraduate and postgraduate courses across 7 terms in social sciences and quantitative methods, receiving formal pedagogical training and achieving excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**
+I have taught **3 undergraduate and postgraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and have consistently acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
 
 ## Teaching Experience
 
@@ -45,3 +45,5 @@ Hong Kong University of Science and Technology
 - Computational Social Science
 - Survey and Experiment
 - AI for Social Science Research
+
+Across all levels of instruction, I am committed to cultivating accessible, inclusive, and rigorous learning environments.
