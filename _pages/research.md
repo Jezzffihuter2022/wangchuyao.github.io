@@ -61,7 +61,7 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
 Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
-## Summer Institute and Conference Acceptances
+## Summer Institute and Conference Acceptances  
 
 **Summer Institutes**  
 &nbsp;&nbsp;&nbsp;&nbsp;18th Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
