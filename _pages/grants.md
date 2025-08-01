@@ -5,10 +5,10 @@ permalink: /grants/
 author_profile: true
 ---
 
-I have a strong track record of securing competitive grants and awards, having received a total amount of US$1,050,000. This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract further support for my research program.
+I have secured a total amount of US$1,050,000 in competitive research funding and academic awards, all as the sole Principal Investigator (PI). This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract further support for my research program.
 
 ## Research Grants
-6 grants (4 external and 2 university level), all as the sole Principal Investigator (PI)
+**6 grants** (4 external and 2 university level)
 
 1\. **Research and Impact Support Fund (Artificial Intelligence Spotlight Call), £4,817**, LSE, 2024-25  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 16 student awardees in the inaugural cohort, highlighted by LSE: [World-leading AI research](https://www.lse.ac.uk/DSI/AI/risf-projects)
