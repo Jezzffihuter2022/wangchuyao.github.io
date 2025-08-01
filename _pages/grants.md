@@ -10,19 +10,19 @@ I have a strong track record of securing competitive grants and awards, having r
 ## Research Grants
 6 grants (4 external and 2 university level), all as the sole Principal Investigator (PI)
 
-1. **Research and Impact Support Fund (Artificial Intelligence Spotlight Call), £4,817**, LSE, 2024-25  
+1\. **Research and Impact Support Fund (Artificial Intelligence Spotlight Call), £4,817**, LSE, 2024-25  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 16 student awardees in the inaugural cohort, highlighted by LSE: [World-leading AI research](https://www.lse.ac.uk/DSI/AI/risf-projects)
 
-2. **OpenAI's Researcher Access Program, US$5,000**, OpenAI, 2024-25  
+2\. **OpenAI's Researcher Access Program, US$5,000**, OpenAI, 2024-25  
 &nbsp;&nbsp;&nbsp;&nbsp;Tailored ChatGPT API for social science research (e.g., LLM sycophancy and persuasion)
 
-3. Google Cloud Research Credits, US$1,000, Google, 2024-25
+3\. Google Cloud Research Credits, US$1,000, Google, 2024-25
 
-4. ACM WebSci24 Student Grant, €500, Association for Computing Machinery, 2024
+4\. ACM WebSci24 Student Grant, €500, Association for Computing Machinery, 2024
 
-5. Research and Dissertation Grant, HK$90,000, CUHK [Declined]
+5\. Research and Dissertation Grant, HK$90,000, CUHK [Declined]
 
-6. **SICSS Research Grant**, Social Science Research Council (SSRC), USA, 2021  
+6\. **SICSS Research Grant**, Social Science Research Council (SSRC), USA, 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 25 awardees among 21 sites worldwide, highlighted by SSRC: [SICSS Research Grantees](https://www.ssrc.org/programs/digital-culture/the-summer-institutes-in-computational-social-science/sicss-research-grantees/)
 
 ## Selected Academic Awards
