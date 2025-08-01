@@ -61,4 +61,4 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
 Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
-Together, my research advances the understanding of how digital infrastructures mediate public reasoning and institutional trust in contemporary governance and political communication.
+Together, my research advances the understanding of how digital infrastructures mediate public reasoning and political trust in contemporary governance and political communication.
