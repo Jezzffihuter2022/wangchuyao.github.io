@@ -28,4 +28,4 @@ International Conference on Computational Social Science (IC2S2): 2024, 2025
 International Communication Association (ICA): 2024, 2025  
 National Communication Association (NCA): 2024
 
-Finally, I draw on insights from prior internships in government advisory and technology sectors. These experiences inform my ability to mentor students navigating diverse academic and professional trajectories, and to support institutional efforts that link academic inquiry with pressing societal challenges.
+I also draw on prior experiences in consulting, government advisory, and technology sectors to mentor students pursuing diverse professional paths and to support linkages between academia, industry, and government.
