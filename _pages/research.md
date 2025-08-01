@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-How do political institutions and  algorithmic systems jointly shape public perception, institutional legitimacy, and policy support in the digital age? Working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often producing unintended consequences. To investigate these dynamics, I combine survey experiments, computational text and image analysis, social network analysis, and LLM-assisted social behavior modeling.
+How do political institutions and  algorithmic systems jointly shape public perception, institutional legitimacy, and policy support in the digital age? Working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often producing unintended consequences. To investigate these dynamics, I combine survey experiments, computational text and image analysis, social network analysis, and LLM-assisted political behavior modeling.
 
 My research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
