@@ -7,7 +7,7 @@ author_profile: true
 
 How do political institutions and  algorithmic systems jointly shape public perception, institutional legitimacy, and policy support in the digital age? Working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often producing unintended consequences. To investigate these dynamics, I combine survey experiments, computational text and image analysis, social network analysis, and LLM-assisted social behavior modeling.
 
-My research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My papers are accepted at top conferences across disciplines, namely APSA, ICA, ASA, and IC2S2. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
+My research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
 ## Publication
 
@@ -60,5 +60,29 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
 Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
+
+## Selected Conference Acceptances
+
+## Selected Conference Presentations
+
+**Political Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of European Political Science Association (EPSA 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Meeting of Society for Political Methodology (PolMeth 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Meeting of Society for Political Methodology, Europe (PolMeth Europe 2025)  
+
+**Communication**  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of International Communication Association (ICA 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;National Communication Association Annual Convention (NCA 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;Chinese Internet Research Conference (CIRC 2022)  
+
+**Sociology**  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of American Sociological Association (ASA 2025)  
+
+**Computational Social Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;International Conference on Computational Social Science (IC2S2 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;Association for Computing Machinery Web Science Conference (ACM WebSci 2024)  
 
 Together, my research advances the understanding of how digital infrastructures mediate public reasoning and political trust in contemporary governance and political communication.
