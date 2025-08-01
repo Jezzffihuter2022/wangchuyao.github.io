@@ -5,12 +5,12 @@ permalink: /grants/
 author_profile: true
 ---
 
-I have secured a total amount of **US$1,050,000 in research grants and academic awards**, all as the sole Principal Investigator (PI). 
+I have secured a total amount of **US$1,050,000 in research grants and academic awards**. 
 
 This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract further support for my research program.
 
 ## Research Grants
-**6 grants** (4 external and 2 university level)
+**6 grants** (4 external and 2 university level), all as the sole Principal Investigator (PI).
 
 1\. **Research and Impact Support Fund (Artificial Intelligence Spotlight Call), £4,817**, LSE, 2024-25  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 16 student awardees in the inaugural cohort, highlighted by LSE: [World-leading AI research](https://www.lse.ac.uk/DSI/AI/risf-projects)
