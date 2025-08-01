@@ -61,9 +61,12 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
 Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
-## Selected Conference Acceptances
+## Summer Institute and Conference Acceptances
 
-## Selected Conference Presentations
+**Summer Institutes**  
+&nbsp;&nbsp;&nbsp;&nbsp;18th Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;2nd Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;4th Summer Institute in Computational Social Science (SICSS 2021)
 
 **Political Science**  
 &nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
@@ -81,7 +84,6 @@ Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of American Sociological Association (ASA 2025)  
 
 **Computational Social Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
 &nbsp;&nbsp;&nbsp;&nbsp;International Conference on Computational Social Science (IC2S2 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Association for Computing Machinery Web Science Conference (ACM WebSci 2024)  
 
