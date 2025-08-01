@@ -65,7 +65,7 @@ Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
 **Summer Institutes**  
 &nbsp;&nbsp;&nbsp;&nbsp;18th Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;2nd Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;2nd Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;4th Summer Institute in Computational Social Science (SICSS 2021)
 
 **Political Science**  
