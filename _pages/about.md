@@ -12,7 +12,9 @@ Welcome! I am a PhD researcher in Social Research Methods at the London School o
 
 **I am now applying for Assistant Professor and postdoctoral positions beginning in 2026.**
 
-I study how AI affects public attitudes and political behavior using computational and experimental methods. I have authored 8 papers, all published, under review, or in preparation for leading journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio).
+I am a researcher at the intersection of AI governance, political communication, and computational social science. I examine how strategies and generative AI shape public perception, political expression, and policy support, often producing unintended consequences. To investigate these dynamics, I combine human-AI interation, survey experiment, computational text and image analysis, and social network analysis.
+
+I have authored 8 papers, all published, under review, or in preparation for leading journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio).
 
 As Principal Investigator, I have secured competitive research grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service.
 
