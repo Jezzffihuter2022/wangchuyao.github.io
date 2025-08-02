@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I study how political institutions and algorithmic systems jointly shape public reasoning and political trust, using computational and experimental methods. 
+Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
 
-I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf).
+**I am now applying for Assistant Professor and postdoctoral positions beginning in 2026.**
 
-**Seeking Assistant Professor or postdoctoral roles beginning 2026.**
-
-I have authored 8 papers, including publications, manuscripts under review, and works in progress for leading interdisciplinary and political communication journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio).
+I study how AI affects public attitudes and political behavior, using computational and experimental methods. I have authored 8 papers, all published, under review, or in preparation for leading journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio).
 
 As Principal Investigator, I have secured competitive research grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service, particularly in advancing innovative, interdisciplinary and impactful scholarship.
 
