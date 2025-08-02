@@ -27,13 +27,13 @@ This demonstrates the broad appeal and real-world relevance of my research, and 
 
 ## Selected Academic Awards
 
+**LSE Ph.D. Studentship, £170,000**, LSE (80 Places across All Departments), 2022-26
+
 Information Technology and Politics Section Travel Grant, US$250, APSA, 2024
 
 Postgraduate Travel Fund, £1,000, LSE, 2024
 
 Ph.D. Academy Micro-Internship Award, £1,000, LSE, 2023
-
-**LSE Ph.D. Studentship, £170,000**, LSE (80 Places across All Departments), 2022-26
 
 **Postgraduate Studentship**, HK$430,000, HKUST, 2020-22
 
