@@ -29,7 +29,7 @@ This demonstrates the broad appeal and real-world relevance of my research, and 
 
 **LSE Ph.D. Studentship, £170,000**, LSE (80 Places across All Departments), 2022-26
 
-Information Technology and Politics Section Travel Grant, US$250, APSA, 2024
+Information Technology and Politics Section Travel Grant, US$250, American Political Science Associtation, 2024
 
 Postgraduate Travel Fund, £1,000, LSE, 2024
 
