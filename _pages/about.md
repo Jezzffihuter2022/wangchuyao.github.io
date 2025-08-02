@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
+Welcome! I am a Ph.D. researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
 
 My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
 
@@ -37,19 +37,12 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
   <!-- Right Column: Education -->
   <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Education</h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>
-        <strong>PhD in Social Research Methods</strong> (with full funding), LSE, 2022–2026<br>
-        <em>PhD Affiliate at the LSE Data Science Institute</em>
-      </li>
-      <li>
-        <strong>MPhil in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022
-      </li>
-      <li>
-        <strong>MSc in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020
-      </li>
-      <li>
-        <strong>BA in History (Economic History)</strong>, Shandong University (SDU), 2016–2020
+    <ul>
+      <li>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026<br>
+        <em>Ph.D. Affiliate at the LSE Data Science Institute</em>
+      <li>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022
+      </li>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020
+      </li>B.A. in History (Economic History)</strong>, Shandong University (SDU), 2016–2020
       </li>
     </ul>
   </div>
