@@ -85,5 +85,3 @@ Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 **Computational Social Science**  
 &nbsp;&nbsp;&nbsp;&nbsp;International Conference on Computational Social Science (IC2S2 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Association for Computing Machinery Web Science Conference (ACM WebSci 2024)  
-
-Together, my research advances the understanding of how digital infrastructures mediate public reasoning and political trust in contemporary governance and political communication.
