@@ -27,7 +27,7 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
   <!-- Left Column: Research Interests -->
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
     <h3>Research Interests</h3>
-    <ul>
+    <ul style="list-style-type: disc; padding-left: 1em;">
       <li>AI governance and policy</li>
       <li>Political communication and public opinion</li>
       <li>Computational social science</li>
