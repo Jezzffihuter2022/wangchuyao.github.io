@@ -22,6 +22,8 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
+
   <!-- Left Column: Research Interests -->
   <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Research Interests</h3>
@@ -37,13 +39,13 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
   <!-- Right Column: Education -->
   <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Education</h3>
-    <ul>
-      <li>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026<li>
-        <em>Ph.D. Affiliate at the LSE Data Science Institute</em>
-      <li>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022<li>  
-      </li>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020<li>  
-      </li>B.A. in History</strong>, Shandong University (SDU), 2016–2020<li>  
-      </li>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><strong>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026</li>
+      Ph.D. Affiliate at the LSE Data Science Institute
+      <li><strong>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022</li>
+      <li><strong>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020</li>
+      <li><strong>B.A. in History</strong>, Shandong University (SDU), 2016–2020</li>
     </ul>
   </div>
+
 </div>
