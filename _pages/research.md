@@ -49,7 +49,7 @@ First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
 - Designed personalized human-AI conversational survey experiment (n = 3,100)
 
 **[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
-Second and corresponding author; manuscript for *PNAS Nexus*; IF = 3.8
+Second and corresponding author; manuscript for *Policy & Internet*; IF = 3.6, SSCI Q1
 - Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
 - Demonstrated how regulatory intervention induces online self-censorship
 
