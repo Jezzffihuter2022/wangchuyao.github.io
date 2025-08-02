@@ -38,11 +38,11 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
   <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Education</h3>
     <ul>
-      <li>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026<br>
+      <li>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026<li>
         <em>Ph.D. Affiliate at the LSE Data Science Institute</em>
-      <li>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022
-      </li>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020
-      </li>B.A. in History</strong>, Shandong University (SDU), 2016–2020
+      <li>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022<li>  
+      </li>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020<li>  
+      </li>B.A. in History</strong>, Shandong University (SDU), 2016–2020<li>  
       </li>
     </ul>
   </div>
