@@ -22,7 +22,7 @@ This demonstrates the broad appeal and real-world relevance of my research, and 
 
 4\. ACM WebSci24 Student Grant, €500, Association for Computing Machinery, 2024
 
-4\. **SICSS Research Grant**, Social Science Research Council (SSRC), USA, 2021  
+5\. **SICSS Research Grant**, Social Science Research Council (SSRC), USA, 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 25 awardees among 21 sites worldwide, highlighted by SSRC: [SICSS Research Grantees](https://www.ssrc.org/programs/digital-culture/the-summer-institutes-in-computational-social-science/sicss-research-grantees/)
 
 ## Selected Academic Awards
