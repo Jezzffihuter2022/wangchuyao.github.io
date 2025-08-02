@@ -12,9 +12,9 @@ Welcome! I am a Ph.D. researcher in Social Research Methods at the London School
 
 **I am now applying for Assistant Professor and postdoctoral positions beginning in 2026.**
 
-I am a researcher at the intersection of AI governance, political communication, and computational social science. I examine how strategies and generative AI jointly shape public perception, political expression, and policy support, often producing unintended consequences. To investigate these dynamics, I combine human-AI interation, survey experiment, computational text and image analysis, and social network analysis.
+I am a researcher at the intersection of AI governance, political communication, and computational social science. I examine how strategies and generative AI jointly shape public perception, political expression, and policy support, often producing unintended consequences. To investigate these dynamics, I combine human-AI interaction, survey experiments, computational text and image analysis, and social network analysis.
 
-I have authored 8 papers, all published, under review, or in preparation for leading journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). As Principal Investigator, I have secured competitive research grants from LSE, OpenAI, Google, and Social Science Research Council (USA). 
+I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *Nature Human Behaviour*, supported by grants from LSE, OpenAI, and Google, alongside additional studies in progress for leading political science journals.
 
 I taught courses in politics, media, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
