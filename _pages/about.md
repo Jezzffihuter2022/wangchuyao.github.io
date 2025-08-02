@@ -24,32 +24,34 @@ As Principal Investigator, I have secured competitive research grants from LSE, 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
 
   <!-- Left Column: Research Interests -->
-  <div style="flex: 1; min-width: 280px;">
+  <div style="flex: 1; min-width: 280px; font-size: 0.9em;">
     <h3>Research Interests</h3>
     <ul>
-      <li>AI governance and digital policy</li>
+      <li>AI governance and policy</li>
       <li>Political communication and public opinion</li>
       <li>Computational social science</li>
-      <li>Survey and experimental methods</li>
+      <li>Survey experiment</li>
       <li>AI for social science research</li>
     </ul>
   </div>
 
   <!-- Right Column: Education -->
-  <div style="flex: 1; min-width: 280px;">
+  <div style="flex: 1; min-width: 280px; font-size: 0.9em;">
     <h3>Education</h3>
     <ul style="list-style: none; padding-left: 0;">
       <li>
-        <strong>PhD in Social Research Methods</strong> (with full funding), LSE, 2022 - 2026<br>
+        <strong>PhD in Social Research Methods</strong> (with full funding), LSE, 2022–2026<br>
         <em>PhD Affiliate at the LSE Data Science Institute</em>
+      </li>
       <li>
-        <strong>MPhil in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022<br>
+        <strong>MPhil in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022
+      </li>
       <li>
-        <strong>MSc in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020<br>
+        <strong>MSc in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020
+      </li>
       <li>
-        <strong>BA in History (Economic History)</strong>, Shandong University (SDU), 2016–2020<br>
+        <strong>BA in History (Economic History)</strong>, Shandong University (SDU), 2016–2020
       </li>
     </ul>
   </div>
-
 </div>
