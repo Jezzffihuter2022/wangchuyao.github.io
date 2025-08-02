@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-I contribute to academic service through reviewing, institutional development, community building, and stakeholder outreach.
+I contribute to academic service through reviewing, institutional strategic development, community building, and stakeholder outreach.
 
 ## Institutional Development
 
@@ -13,7 +13,7 @@ I contribute to academic service through reviewing, institutional development, c
 Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Institute, 2025-26
 
 - Designed and launched interdisciplinary initiatives connecting PhD students and faculty across departments
-- Contributed to strategic planning and external stakeholder engagement
+- Contributed to strategic development and external stakeholder engagement
   
 **Convenor and Presenter**  
 Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025-26
