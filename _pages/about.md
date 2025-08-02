@@ -41,25 +41,25 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
   <h3>Education</h3>
   <ul style="list-style-type: disc; padding-left: 1em;">
     <li>
-      Ph.D. in Social Research Methods, 2022–2026<br>
+      Ph.D. in Social Research Methods, 2022–26<br>
       <span style="display:inline-block; padding-left: 1em;">
         London School of Economics and Political Science (LSE)
       </span>
     </li>
     <li>
-      M.Phil. in Social Science, 2020–2022<br>
+      M.Phil. in Social Science, 2020–22<br>
       <span style="display:inline-block; padding-left: 1em;">
         Hong Kong University of Science and Technology (HKUST)
       </span>
     </li>
     <li>
-      M.Sc. in Global China Studies, 2019–2020<br>
+      M.Sc. in Global China Studies, 2019–20<br>
       <span style="display:inline-block; padding-left: 1em;">
         HKUST
       </span>
     </li>
     <li>
-      B.A. in History, 2016–2020<br>
+      B.A. in History, 2016–20<br>
       <span style="display:inline-block; padding-left: 1em;">
         Shandong University (SDU)
       </span>
