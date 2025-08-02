@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I investigate how state strategies and generative AI jointly citizens’ affect perceptions of political information, constrain political expression, and influence policy preferences, often producing unintended consequences across both authoritarian and democratic regimes.
+I investigate how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences, often producing unintended consequences across both authoritarian and democratic regimes.
 
 My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
