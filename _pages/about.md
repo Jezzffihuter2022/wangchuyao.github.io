@@ -43,7 +43,7 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
     <li>
       Ph.D. in Social Research Methods, 2022–26<br>
       <span style="display:inline-block; padding-left: 1em;">
-        London School of Economics and Political Science (LSE)
+        LSE
       </span>
     </li>
     <li>
