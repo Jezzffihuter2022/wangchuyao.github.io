@@ -42,19 +42,19 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
       <li>
         Ph.D. in Social Research Methods, 2022–26<br>
         <span style="display:inline-block; padding-left: 1em;">
-          LSE
+          LSE, fully funded
         </span>
       </li>
       <li>
         M.Phil. in Social Science, 2020–22<br>
         <span style="display:inline-block; padding-left: 1em;">
-          Hong Kong University of Science and Technology (HKUST)
+          Hong Kong University of Science and Technology (HKUST), fully funded
         </span>
       </li>
       <li>
         M.Sc. in Global China Studies, 2019–20<br>
         <span style="display:inline-block; padding-left: 1em;">
-          HKUST
+          HKUST, with Dean's Award
         </span>
       </li>
       <li>
