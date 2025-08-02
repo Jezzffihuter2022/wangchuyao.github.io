@@ -37,14 +37,32 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
   </div>
 
   <!-- Right Column: Education -->
-  <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
-    <h3>Education</h3>
-    <ul>
-      <li>Ph.D. in Social Research Methods, LSE, 2022–26</li>
-      <li>M.Phil. in Social Science, Hong Kong University of Science and Technology (HKUST), 2020–22</li>
-      <li>M.Sc. in Global China Studies, HKUST, 2019–20</li>
-      <li>B.A. in History, Shandong University (SDU), 2016–20</li>
-    </ul>
-  </div>
-
+<div style="flex: 1; min-width: 280px; font-size: 0.85em;">
+  <h3>Education</h3>
+  <ul style="list-style-type: disc; padding-left: 1em;">
+    <li>
+      Ph.D. in Social Research Methods, 2022–2026<br>
+      <span style="display:inline-block; padding-left: 1em;">
+        London School of Economics and Political Science (LSE)
+      </span>
+    </li>
+    <li>
+      M.Phil. in Social Science, 2020–2022<br>
+      <span style="display:inline-block; padding-left: 1em;">
+        Hong Kong University of Science and Technology (HKUST)
+      </span>
+    </li>
+    <li>
+      M.Sc. in Global China Studies, 2019–2020<br>
+      <span style="display:inline-block; padding-left: 1em;">
+        HKUST
+      </span>
+    </li>
+    <li>
+      B.A. in History, 2016–2020<br>
+      <span style="display:inline-block; padding-left: 1em;">
+        Shandong University (SDU)
+      </span>
+    </li>
+  </ul>
 </div>
