@@ -45,7 +45,7 @@
       
       /* Only limit width on larger screens */
       @include breakpoint($large) {
-        max-width: 900px;
+        max-width: 1000px;
       }
     }
   }
