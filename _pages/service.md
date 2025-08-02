@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-I contribute to academic service through reviewing, organizing institutional networks, community building, and stakeholder outreach.
+I contribute to academic service through reviewing, institutional development, community building, and stakeholder outreach.
 
 ## Institutional Development
 
