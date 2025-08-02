@@ -18,12 +18,12 @@ I am a researcher at the intersection of AI governance, political communication,
 
 I have authored 8 papers, all published, under review, or in preparation for leading journals. These includes my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). As Principal Investigator, I have secured competitive research grants from LSE, OpenAI, Google, and Social Science Research Council (USA). 
 
-I teach at the intersection of politics, media, and methods, with formal pedagogical training and excellent teaching evaluations.
+I taught courses in politics, media, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
 
   <!-- Left Column: Research Interests -->
-  <div style="flex: 1; min-width: 280px; font-size: 0.9em;">
+  <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Research Interests</h3>
     <ul>
       <li>AI governance and policy</li>
@@ -35,7 +35,7 @@ I teach at the intersection of politics, media, and methods, with formal pedagog
   </div>
 
   <!-- Right Column: Education -->
-  <div style="flex: 1; min-width: 280px; font-size: 0.9em;">
+  <div style="flex: 1; min-width: 280px; font-size: 0.8em;">
     <h3>Education</h3>
     <ul style="list-style: none; padding-left: 0;">
       <li>
