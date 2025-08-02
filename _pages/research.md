@@ -17,7 +17,7 @@ Co-first and corresponding author, *Humanities and Social Sciences Communication
 Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (Nature Portfolio); highlighted by LSE DSI on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7338216361464127490/), [X](https://x.com/lsedatascience/status/1932453471413760431?s=46), and official newsletter
 
 - Combined qualitative case analysis, social network analysis, and topic modeling of 46,387 Weibo posts
-- Found that authoritarian strategies for managing conspiracy theories can mobilize public opinion, but also risk losing control and provoking backlash
+- Found that authoritarian strategies for managing conspiracy theories risk losing control and provoking backlash
 
 ## Under Review
 
