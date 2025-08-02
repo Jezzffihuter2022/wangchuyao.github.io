@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-How do political institutions and  algorithmic systems jointly shape public perception, institutional legitimacy, and policy support in the digital age? Working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often producing unintended consequences. To investigate these dynamics, I combine survey experiment, computational text and image analysis, social network analysis, and LLM-assisted political behavior modeling.
+How do political institutions and  algorithmic systems jointly shape public perception, institutional legitimacy, and policy support in the digital age? Working at the intersection of AI governance, political communication, and computational social science, I examine how credibility cues, algorithmic systems, and sociotechnical infrastructures shape public opinion on digital platforms—often producing unintended consequences. To investigate these dynamics, I combine survey experiment, computational text and image analysis, social network analysis, and the applications of generative AI.
 
 My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
@@ -43,7 +43,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 
 ## Working Papers
 
-**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitute**  
+**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
 First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n = 3,100)
