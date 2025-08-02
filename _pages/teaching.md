@@ -46,4 +46,4 @@ Hong Kong University of Science and Technology
 - Survey and Experiment
 - AI for Social Science Research
 
-Across all levels of teaching, I am committed to cultivating accessible, inclusive, and rigorous learning environments.
+These reflect my general teaching interests and can be tailored to specific departmental curricula.
