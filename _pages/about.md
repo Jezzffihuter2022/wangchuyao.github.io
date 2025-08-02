@@ -20,14 +20,13 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
 
 My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
+<!-- Two-column layout: Research Interests + Education -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem;">
 
   <!-- Left Column: Research Interests -->
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
-    <h3>Research Interests</h3>
-    <ul style="list-style-type: disc; padding-left: 1em;">
+    <h3 style="margin-bottom: 0.5rem;">Research Interests</h3>
+    <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
       <li>AI governance and policy</li>
       <li>Political communication and public opinion</li>
       <li>Computational social science</li>
@@ -37,32 +36,34 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
   </div>
 
   <!-- Right Column: Education -->
-<div style="flex: 1; min-width: 280px; font-size: 0.85em;">
-  <h3>Education</h3>
-  <ul style="list-style-type: disc; padding-left: 1em;">
-    <li>
-      Ph.D. in Social Research Methods, 2022–26<br>
-      <span style="display:inline-block; padding-left: 1em;">
-        LSE
-      </span>
-    </li>
-    <li>
-      M.Phil. in Social Science, 2020–22<br>
-      <span style="display:inline-block; padding-left: 1em;">
-        Hong Kong University of Science and Technology (HKUST)
-      </span>
-    </li>
-    <li>
-      M.Sc. in Global China Studies, 2019–20<br>
-      <span style="display:inline-block; padding-left: 1em;">
-        HKUST
-      </span>
-    </li>
-    <li>
-      B.A. in History, 2016–20<br>
-      <span style="display:inline-block; padding-left: 1em;">
-        Shandong University (SDU)
-      </span>
-    </li>
-  </ul>
+  <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
+    <h3 style="margin-bottom: 0.5rem;">Education</h3>
+    <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
+      <li>
+        Ph.D. in Social Research Methods, 2022–26<br>
+        <span style="display:inline-block; padding-left: 1em;">
+          LSE
+        </span>
+      </li>
+      <li>
+        M.Phil. in Social Science, 2020–22<br>
+        <span style="display:inline-block; padding-left: 1em;">
+          Hong Kong University of Science and Technology (HKUST)
+        </span>
+      </li>
+      <li>
+        M.Sc. in Global China Studies, 2019–20<br>
+        <span style="display:inline-block; padding-left: 1em;">
+          HKUST
+        </span>
+      </li>
+      <li>
+        B.A. in History, 2016–20<br>
+        <span style="display:inline-block; padding-left: 1em;">
+          Shandong University (SDU)
+        </span>
+      </li>
+    </ul>
+  </div>
+
 </div>
