@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. 
+Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
 
 My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
 
@@ -20,4 +20,36 @@ I have authored 8 papers, all published, under review, or in preparation for lea
 
 As Principal Investigator, I have secured competitive research grants from LSE, OpenAI, Google, and Social Science Research Council (USA). I am committed to excellence in teaching, mentorship, and service.
 
-I obtained an MPhil in Social Science (full funded) and an MSc in Global China Studies (with Dean's Award) from Hong Kong University of Science and Technology (HKUST). I hold BA in History (Economic History) from Shandong University (SDU).  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 3rem;">
+
+  <!-- Left Column: Research Interests -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>Research Interests</h3>
+    <ul>
+      <li>AI governance and digital policy</li>
+      <li>Political communication and public opinion</li>
+      <li>Computational social science</li>
+      <li>Survey and experimental methods</li>
+      <li>AI for social science research</li>
+    </ul>
+  </div>
+
+  <!-- Right Column: Education -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>Education</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>
+        <strong>PhD in Social Research Methods</strong> (with full funding), LSE, 2022 - 2026<br>
+        <em>PhD Affiliate at the LSE Data Science Institute</em>
+      <li>
+        <strong>MPhil in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022<br>
+      <li>
+        <strong>MSc in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020<br>
+      <li>
+        <strong>BA in History (Economic History)</strong>, Shandong University (SDU), 2016–2020<br>
+      </li>
+    </ul>
+  </div>
+
+</div>
