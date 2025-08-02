@@ -42,7 +42,7 @@ I taught courses in politics, media, and quantitative methods, with formal pedag
         <em>Ph.D. Affiliate at the LSE Data Science Institute</em>
       <li>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022
       </li>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020
-      </li>B.A. in History (Economic History)</strong>, Shandong University (SDU), 2016–2020
+      </li>B.A. in History</strong>, Shandong University (SDU), 2016–2020
       </li>
     </ul>
   </div>
