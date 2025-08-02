@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I investigate how governance strategies and generative AI shape public perception, political expression, and policy support in the digital age.
+I investigate how governance strategies and generative AI jointly shape public perception, political expression, and policy support.
 
 My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
