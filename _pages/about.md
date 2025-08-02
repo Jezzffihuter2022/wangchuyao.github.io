@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
+Welcome! I am a PhD researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I will be a Visiting Assistant in Research at Yale University's Department of Political Science. 
+
+My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](c.wang85@lse.ac.uk).
 
 **I am now applying for Assistant Professor and postdoctoral positions beginning in 2026.**
 
