@@ -40,10 +40,10 @@ My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
     <h3>Education</h3>
     <ul>
-      <li><strong>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–2026</li>
-      <li><strong>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–2022</li>
-      <li><strong>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–2020</li>
-      <li><strong>B.A. in History</strong>, Shandong University (SDU), 2016–2020</li>
+      <li><strong>Ph.D. in Social Research Methods</strong> (with full funding), LSE, 2022–26</li>
+      <li><strong>M.Phil. in Social Science</strong> (with full funding), Hong Kong University of Science and Technology (HKUST), 2020–22</li>
+      <li><strong>M.Sc. in Global China Studies</strong> (with Dean's Award), HKUST, 2019–20</li>
+      <li><strong>B.A. in History</strong>, Shandong University (SDU), 2016–20</li>
     </ul>
   </div>
 
