@@ -5,7 +5,7 @@ permalink: /grants/
 author_profile: true
 ---
 
-I have secured a total amount of **US$ 248,000 in research grants and academic awards**. 
+I have secured a total amount of **US$248,000 in research grants and academic awards**. 
 
 This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract substantial grants in the future.
 
@@ -29,7 +29,7 @@ This demonstrates the broad appeal and real-world relevance of my research, and 
 
 **LSE Ph.D. Studentship, £170,000**, LSE (80 Places across All Departments), 2022-26
 
-Information Technology and Politics Section Travel Grant, US$250, American Political Science Associtation, 2024
+Information Technology and Politics Section Travel Grant, US$250, American Political Science Association, 2024
 
 Postgraduate Travel Fund, £1,000, LSE, 2024
 
@@ -41,7 +41,7 @@ Dean's Award, HKUST (3 Places, Top 5%), 2020
 
 Scholarship for UCLA Study, SDU, 2017
 
-## Declined Offers
+## Competitively Awarded but Declined Offers
 
 **Hong Kong Ph.D. Fellowship, HK$1,010,000**, Research Grant Council [Declined]
 
