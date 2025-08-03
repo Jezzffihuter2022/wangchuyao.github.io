@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I approach teaching as a process of equipping students with conceptual clarity, analytical precision, and critical openness.
+I approach teaching as a process of cultivating conceptual clarity, analytical precision, and critical openness in students.
 
-Specifically, I use real-world case studies, arrange flipped classrooms, and alow responsible use of generative AI tools to foster interactive learning. I tailor course content for students from diverse academic and cultural backgrounds. I also emphasize conceptually grounded approaches to research methods.
+My teaching combines interactive methods with conceptually structured content and the integration of rigorous research methods. I engage students from diverse disciplinary and cultural backgrounds through real-world cases and flipped classroom models.
 
-I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and acheived excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
+I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and achieved excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
 
 ## Teaching Experience
 
