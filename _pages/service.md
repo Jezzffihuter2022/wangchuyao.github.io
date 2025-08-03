@@ -18,7 +18,7 @@ Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Instit
 **Convenor and Presenter**  
 Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025-26
 
-- Organized and delivered a talk series to promote interdisciplinary knowledge exchange and external stakeholder engagement
+- Organized and delivered a talk series fostering interdisciplinary exchange and external stakeholder engagement
   
 ## Editorial Service
 
