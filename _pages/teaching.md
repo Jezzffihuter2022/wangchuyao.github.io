@@ -7,7 +7,7 @@ author_profile: true
 
 I approach teaching as a process of cultivating conceptual clarity, analytical precision, and critical openness in students.
 
-My teaching combines interactive methods with conceptually grounded content and rigorous research methods. I engage students from diverse disciplinary and cultural backgrounds through real-world cases and flipped classroom models.
+My teaching combines conceptually grounded content and rigorous research methods. I engage students from diverse disciplinary and cultural backgrounds through real-world cases and flipped classroom models.
 
 I have taught **3 postgraduate and undergraduate courses across 7 terms** in social sciences and quantitative methods, receiving formal pedagogical training and achieved excellent teaching evaluation scores: **5.00, 4.91, and 5.00 (out of 5)**.
 
