@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Overview"
-excerpt: "AI Governance, Political Communication, Computational Social Science"
+excerpt: "Chuyao Wang, PhD researcher at LSE"
 author_profile: true
 redirect_from: 
   - /about/
