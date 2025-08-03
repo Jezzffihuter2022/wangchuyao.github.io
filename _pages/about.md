@@ -18,7 +18,7 @@ I have authored 8 papers, all published, under review, or in preparation for lea
 
 I taught courses in politics, media, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
-My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at [c.wang85@lse.ac.uk](mailto:c.wang85@lse.ac.uk).
+My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at c.wang85@lse.ac.uk.
 
 <!-- Two-column layout: Research Interests + Education -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem;">
