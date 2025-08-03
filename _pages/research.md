@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I investigate how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences, often producing unintended consequences across both authoritarian and democratic regimes.
+I investigate how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences by combining computational and experimental methods.
 
-My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *Nature Human Behaviour* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
+My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions under review at *Nature Communications*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *PNAS* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
 ## Publication
 
@@ -44,22 +44,22 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 ## Working Papers
 
 **[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
-First author; for *Nature Human Behaviour*; IF = 15.9, SSCI Q1  
+First author; targeting *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *(Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE)*
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n = 3,100)
 
-**[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Langauge Models**  
-Second and corresponding author; manuscript for *Policy & Internet*; IF = 3.6, SSCI Q1
+**[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
+Second and corresponding author; manuscript targeting *Policy & Internet*; IF = 3.6, SSCI Q1
 - Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
 - Demonstrated how regulatory intervention induces online self-censorship
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
-Second and corresponding author; for *Political Analysis*; IF = 5.4, SSCI Q1  
+Second and corresponding author; targeting *Political Analysis*; IF = 5.4, SSCI Q1  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
-Sole author; for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
+Sole author; targeting *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
 ## Summer Institute and Conference Acceptances  
 
