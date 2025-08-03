@@ -45,7 +45,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 
 **[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
 First author; targeting *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
-*(Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE)*
+*Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n = 3,100)
 
