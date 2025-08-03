@@ -25,10 +25,10 @@ Undergraduate Course, Division of Social Science, HKUST
 ## Pedagogical Training
 
 **PDEV6800I - Introduction to Teaching and Learning in Higher Education** (3 terms)  
-Hong Kong University of Science and Technology  
+HKUST 
 
 **PDEV6770D - Professional Development for Research Postgraduate Students** (3 terms)  
-Hong Kong University of Science and Technology  
+HKUST
 
 ## Teaching Interests
 
