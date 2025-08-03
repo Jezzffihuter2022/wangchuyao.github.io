@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a Ph.D. researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
 
-**I am now applying for Assistant Professor and postdoctoral positions beginning in 2026.**
+**I am seeking Assistant Professor and postdoctoral positions starting in 2026.**
 
 I work at the intersection of AI governance, political communication, and computational social science. Substantively, I examine how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences. These dynamics can produce unintended consequences across both authoritarian and democratic regimes. Methodologically, I combine human-AI interaction, survey experiments, computational text and image analysis, and social network analysis.
 
