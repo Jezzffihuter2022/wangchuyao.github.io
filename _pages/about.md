@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. researcher in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
+Welcome! I am a Ph.D. candidate in Social Research Methods at the London School of Economics and Political Science (LSE), affiliated with the [LSE Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Yale University's Department of Political Science. 
 
 **I am seeking Assistant Professor and postdoctoral positions starting in 2026.**
 
