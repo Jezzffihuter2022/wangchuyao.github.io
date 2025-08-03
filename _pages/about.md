@@ -16,7 +16,7 @@ I work at the intersection of AI governance, political communication, and comput
 
 I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://arxiv.org/abs/2506.16202) under review at *Nature Communications*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google, alongside additional studies in progress for leading political science journals.
 
-I have taught courses in comparative politics, political communication, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
+I have taught courses related to comparative politics, political communication, quantitative methods, and Asian Studies, with formal pedagogical training and excellent teaching evaluations.
 
 My CV is [here](/files/ChuyaoWANG_LSE_CV.pdf). Please feel free to contact me at c.wang85@lse.ac.uk.
 
