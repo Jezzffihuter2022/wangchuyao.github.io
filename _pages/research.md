@@ -42,7 +42,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 - Found Chinese media portray Trump as more negative and less trustworthy than US media
 
 **[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
-Second and corresponding author; manuscript targeting *Policy & Internet*; IF = 3.6, SSCI Q1
+Second and corresponding author; under review at *Policy & Internet*; IF = 3.6, SSCI Q1
 - Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
 - Demonstrated how regulatory intervention induces online self-censorship
 
