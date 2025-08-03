@@ -41,18 +41,18 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 - Applied machine learning on 257,056 images to reveal visual framing bias
 - Found Chinese media portray Trump as more negative and less trustworthy than US media
 
+**[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
+Second and corresponding author; manuscript targeting *Policy & Internet*; IF = 3.6, SSCI Q1
+- Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
+- Demonstrated how regulatory intervention induces online self-censorship
+
 ## Working Papers
 
-**[5] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
+**[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
 First author; targeting *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Investigated how LLMs' sycophancy produces biased information
 - Designed personalized human-AI conversational survey experiment (n = 3,100)
-
-**[6] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
-Second and corresponding author; manuscript targeting *Policy & Internet*; IF = 3.6, SSCI Q1
-- Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
-- Demonstrated how regulatory intervention induces online self-censorship
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
 Second and corresponding author; targeting *Political Analysis*; IF = 5.4, SSCI Q1  
