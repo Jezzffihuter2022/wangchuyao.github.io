@@ -6,20 +6,18 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-<div class="author__header-top" style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-  <div class="author__avatar" style="flex-shrink: 0;">
+<div class="author__header-top" style="width: 100%;">
+  <div class="author__avatar" style="width: 100%; max-width: 100%; margin: 0 auto;">
     {% if author.avatar contains "://" %}
-      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" 
- class="author__avatar" 
- style="width: 100%; max-width: 280px; height: auto; border-radius: 50%; display: block;" 
- alt="{{ author.name }}"  
- fetchpriority="high" />
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+           style="width: 100%; height: auto; border-radius: 50%; display: block; margin: 0 auto;" 
+           alt="{{ author.name }}" 
+           fetchpriority="high" />
     {% else %}
-      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" 
-        class="author__avatar" 
-        style="width: 100px; height: auto; border-radius: 50%;" 
-        alt="{{ author.name }}"  
-        fetchpriority="high" />
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
+           style="width: 100%; height: auto; border-radius: 50%; display: block; margin: 0 auto;" 
+           alt="{{ author.name }}" 
+           fetchpriority="high" />
     {% endif %}
   </div>
 </div>
