@@ -6,23 +6,29 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+<div class="author__header-top" style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+  <div class="author__avatar" style="flex-shrink: 0;">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100px; height: auto; border-radius: 50%;" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" 
-     class="author__avatar" 
-     style="width: 100%; max-width: 280px; height: auto; border-radius: 50%; display: block; margin: 0 auto;" 
-     alt="{{ author.name }}"  
-     fetchpriority="high" />
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" 
+        class="author__avatar" 
+        style="width: 100px; height: auto; border-radius: 50%;" 
+        alt="{{ author.name }}"  
+        fetchpriority="high" />
     {% endif %}
   </div>
 
-  <div class="author__content" style="font-size: 1em;">
-    <h3 class="author__name" style="font-size: 1.5em; font-weight: 700;">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+  <div class="author__contact">
+    <a class="btn btn--inverse" href="/contact/">Contact</a>
   </div>
+</div>
+
+<div class="author__content" style="margin-top: 1rem;">
+  <h3 class="author__name" style="font-size: 1.5em; font-weight: 700;">{{ author.name }}</h3>
+  {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
+  {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+</div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Contact</button>
