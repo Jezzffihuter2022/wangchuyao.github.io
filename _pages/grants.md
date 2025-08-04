@@ -41,7 +41,7 @@ Dean's Award, HKUST (3 Places, Top 5%), 2020
 
 Scholarship for UCLA Study, SDU, 2017
 
-## Competitively Awarded but Declined Offers
+## Competitively Awarded but Declined
 
 **Hong Kong Ph.D. Fellowship, HK$1,010,000**, Research Grant Council [Declined]
 
