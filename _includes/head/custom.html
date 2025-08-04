@@ -30,10 +30,16 @@
 @media (max-width:768px){
   /* Target the actual parent container */
   .author-wrapper {
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    text-align:center;
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:center !important;
+    text-align:center !important;
+  }
+  .author-wrapper > div {
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:center !important;
+    width:100% !important;
   }
   .author__avatar-wrapper{
     flex-direction:column;
@@ -49,6 +55,14 @@
   .author__avatar img{
     width:100%;
     max-width:80vw;
+  }
+  .author__content {
+    width:100% !important;
+    text-align:center !important;
+  }
+  .author__urls-wrapper {
+    width:100% !important;
+    text-align:center !important;
   }
 }
 </style>
