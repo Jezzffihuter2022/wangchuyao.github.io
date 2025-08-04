@@ -5,7 +5,7 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<!-- favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
@@ -16,35 +16,40 @@
 
 <!-- Responsive avatar sizing -->
 <style>
-.author__avatar-wrapper {
-  display: block;
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 30px;
+/* ---------- 桌面端：保持与主题一致 (flex 横排) ---------- */
+.author__avatar-wrapper{
+  display:flex;           /* 与 Minimal Mistakes 默认一致 */
+  align-items:flex-start;
+  gap:1.5rem;
 }
 
-.author__avatar img {
-  display: inline-block;
-  border-radius: 50%;
-  height: auto;
-  width: 100%;
-  max-width: 280px;
+/* ---------- 头像圆形 & 最大宽度 ---------- */
+.author__avatar img{
+  display:inline-block;
+  border-radius:50%;
+  height:auto;
+  width:100%;
+  max-width:280px;        /* 桌面端尺寸 */
 }
 
-/* 移动端加大头像，仍保持居中 */
-@media (max-width: 767px) {
-  .author__avatar-wrapper {
-    margin-top: 8vw;
-    margin-bottom: 6vw;
+/* ---------- 移动端：头像居中，文字落下 ---------- */
+@media (max-width:768px){
+  .author__avatar-wrapper{
+    flex-direction:column;   /* 头像上，文字下 */
+    align-items:center;
+    text-align:center;
+    margin-top:8vw;          /* 与你原来保持一致的留白 */
+    margin-bottom:6vw;
   }
 
-  .author__avatar img {
-    width: 80vw;
-    max-width: 80vw;
+  .author__avatar img{
+    width:80vw;              /* 移动端更大但仍留边 */
+    max-width:80vw;
   }
 }
 </style>
 
+<!-- ★★ 下面这段 `.author-wrapper { … }` 是多余文本，务必整段删除 ★★
 .author-wrapper {
   display: flex;
   align-items: flex-start;
@@ -56,5 +61,6 @@
     text-align: center;
   }
 }
+★★ 到此为止 ★★ -->
 
 <!-- end custom head snippets -->
