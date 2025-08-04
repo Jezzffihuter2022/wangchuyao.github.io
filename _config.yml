@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Chuyao WANG"
 title_separator          : " - "
 name                     : &name "Chuyao (Julian) WANG <br> 汪楚尧"
-description              : &description "Ph.D. Candidate at LSE: AI governance, political communication, and computational social science"
+description              : &description "Ph.D. candidate at LSE: AI governance and policy, political communication, and computational social science"
 url                      : "https://www.wangchuyao.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jezzffihuter2022/wangchuyao.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chuyao (Julian) WANG <br> 汪楚尧"
   pronouns         : "he/him"  
-  bio              : "Ph.D. Candidate at LSE: AI governance, political communication, and computational social science"
+  bio              : "Ph.D. candidate at LSE: AI governance and policy, political communication, and computational social science"
   location         : #
   employer         : "London School of Economics"
   uri              : # URL
