@@ -16,20 +16,34 @@
 
 <!-- Responsive avatar sizing -->
 <style>
-  .author__avatar img {
-    width: 100%;
-    max-width: 260px; /* 控制头像最大宽度，约等于文字段宽 */
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%; /* 保持圆形头像 */
-  }
+.author__avatar img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  height: auto;
+}
 
-  @media screen and (max-width: 600px) {
-    .author__avatar img {
-      max-width: 180px; /* 移动端稍微小一点 */
-    }
+/* 桌面端樣式 */
+@media (min-width: 768px) {
+  .author__avatar img {
+    width: 280px;
   }
+  .author__avatar {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+/* 移動端樣式：圖片寬度佔 80% 螢幕寬度，自動留白 */
+@media (max-width: 767px) {
+  .author__avatar img {
+    width: 80vw;
+  }
+  .author__avatar {
+    margin-top: 8vw;
+    margin-bottom: 6vw;
+  }
+}
 </style>
 
 <!-- end custom head snippets -->
