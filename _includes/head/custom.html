@@ -14,15 +14,20 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- Responsive avatar for mobile -->
+<!-- Responsive avatar sizing -->
 <style>
+  .author__avatar img {
+    width: 100%;
+    max-width: 260px; /* 控制头像最大宽度，约等于文字段宽 */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%; /* 保持圆形头像 */
+  }
+
   @media screen and (max-width: 600px) {
     .author__avatar img {
-      width: 100% !important;
-      max-width: 100% !important;
-      height: auto !important;
-      display: block !important;
-      margin: 0 auto !important;
+      max-width: 180px; /* 移动端稍微小一点 */
     }
   }
 </style>
