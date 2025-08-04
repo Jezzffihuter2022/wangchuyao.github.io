@@ -461,3 +461,50 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+@media only screen and (max-width: 768px) {
+  .author__avatar,
+  .author__urls-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .author__avatar {
+    width: 65%;
+    max-width: 120px;
+    margin-right: 1rem;
+  }
+
+  .author__avatar img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .author__urls-wrapper {
+    width: calc(100% - 130px); /* 头像宽度 + margin-right */
+    text-align: right;
+  }
+
+  .author__content {
+    display: block;
+    margin-top: 1rem;
+    padding: 0 0.5rem;
+    text-align: left;
+  }
+
+  .author__bio {
+    text-align: justify;
+  }
+
+  .author__name {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .author__pronouns {
+    font-size: 0.95rem;
+    color: #888;
+    margin-bottom: 0.3rem;
+  }
+}
