@@ -64,9 +64,9 @@ Sole author; targeting *Political Science Research and Methods*; IF = 2.6, SSCI 
 ## Summer Institute and Conference Acceptances  
 
 **Summer Institutes**  
-&nbsp;&nbsp;&nbsp;&nbsp;18th Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;2nd Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
-&nbsp;&nbsp;&nbsp;&nbsp;4th Summer Institute in Computational Social Science (SICSS 2021)
+&nbsp;&nbsp;&nbsp;&nbsp;Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;Summer Institute in Computational Social Science (SICSS 2021)
 
 **Political Science**  
 &nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
