@@ -508,3 +508,36 @@
     margin-bottom: 0.3rem;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .author__header {
+    padding: 0 1rem;
+  }
+
+  .author__header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .author__avatar img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .author__contact .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .author__content {
+    margin-top: 1rem;
+    text-align: left;
+  }
+
+  .author__bio {
+    text-align: justify;
+    font-size: 0.95rem;
+  }
+}
