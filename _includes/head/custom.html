@@ -16,32 +16,31 @@
 
 <!-- Responsive avatar sizing -->
 <style>
-.author__avatar img {
+.author__avatar-wrapper {
   display: block;
-  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.author__avatar img {
+  display: inline-block;
   border-radius: 50%;
   height: auto;
+  width: 100%;
+  max-width: 280px;
 }
 
-/* 桌面端樣式 */
-@media (min-width: 768px) {
-  .author__avatar img {
-    width: 280px;
-  }
-  .author__avatar {
-    margin-top: 40px;
-    margin-bottom: 40px;
-  }
-}
-
-/* 移動端樣式：圖片寬度佔 80% 螢幕寬度，自動留白 */
+/* 移动端加大头像，仍保持居中 */
 @media (max-width: 767px) {
-  .author__avatar img {
-    width: 80vw;
-  }
-  .author__avatar {
+  .author__avatar-wrapper {
     margin-top: 8vw;
     margin-bottom: 6vw;
+  }
+
+  .author__avatar img {
+    width: 80vw;
+    max-width: 80vw;
   }
 }
 </style>
