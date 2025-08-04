@@ -1,10 +1,7 @@
 {% include base_path %}
-
 <!-- start custom head snippets -->
-
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-
 <!-- favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
@@ -13,7 +10,6 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-
 <!-- Responsive avatar sizing -->
 <style>
 /* 桌面端：保持左右排布 */
@@ -22,7 +18,6 @@
   align-items:flex-start;
   gap:1.5rem;
 }
-
 /* 头像圆形 & 最大宽度 */
 .author__avatar img{
   display:inline-block;
@@ -31,9 +26,15 @@
   width:100%;
   max-width:280px;
 }
-
 /* 移动端：头像居中，文字落下 */
 @media (max-width:768px){
+  /* Target the actual parent container */
+  .author-wrapper {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+  }
   .author__avatar-wrapper{
     flex-direction:column;
     align-items:center;
@@ -41,11 +42,14 @@
     margin-top:8vw;
     margin-bottom:6vw;
   }
-  .author__avatar img{
+  .author__avatar {
     width:80vw;
+    margin-bottom:10vw; /* Add spacing between photo and content below */
+  }
+  .author__avatar img{
+    width:100%;
     max-width:80vw;
   }
 }
 </style>
-
 <!-- end custom head snippets -->
