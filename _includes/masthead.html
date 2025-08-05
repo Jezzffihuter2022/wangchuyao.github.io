@@ -14,10 +14,13 @@
             {% endif %}
             <li class="masthead__menu-item mobile-priority-{{ forloop.index }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li id="theme-toggle" class="masthead__menu-item persist tail theme-toggle-desktop">
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
-        <li id="theme-toggle" class="masthead__menu-item persist tail theme-toggle-mobile">
-          <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+        <li id="theme-toggle-mobile" class="masthead__menu-item persist tail theme-toggle-mobile">
+          <a role="button" aria-labelledby="theme-icon-mobile"><i id="theme-icon-mobile" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
         </li>
       </nav>
     </div>
@@ -25,10 +28,21 @@
 </div>
 
 <style>
+/* Desktop theme toggle - keep in the menu */
+.theme-toggle-mobile {
+  display: none; /* Hide mobile theme toggle by default */
+}
+
 /* Mobile navigation adjustments */
 @media (max-width: 768px) {
-  /* Move theme toggle to the right corner */
+  /* Hide desktop theme toggle on mobile */
+  .theme-toggle-desktop {
+    display: none !important;
+  }
+  
+  /* Show and position mobile theme toggle */
   .theme-toggle-mobile {
+    display: block !important;
     position: absolute;
     right: 60px; /* Move further right to avoid overlap */
     top: 50%;
