@@ -24,9 +24,15 @@
   </div>
 </div>
 <style>
-/* Desktop: Ensure theme toggle is visible */
+/* Desktop: Ensure theme toggle is visible and vertically aligned */
 #theme-toggle {
   display: inline-block !important;
+}
+
+#theme-toggle a {
+  display: flex !important;
+  align-items: center !important;
+  height: 100%;
 }
 
 /* Mobile navigation adjustments */
@@ -95,11 +101,23 @@
     font-weight: normal;
   }
   
-  /* Hamburger menu positioning */
+  /* Hamburger menu styling - make it smaller */
   .greedy-nav button {
     position: absolute;
     right: 0.5rem;
     margin: 0;
+    padding: 0.5rem !important;
+  }
+  
+  .greedy-nav .navicon {
+    width: 1rem !important;
+    height: 0.75rem !important;
+  }
+  
+  .greedy-nav .navicon::before,
+  .greedy-nav .navicon::after {
+    width: 1rem !important;
+    height: 0.125rem !important;
   }
 }
 
