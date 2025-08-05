@@ -101,23 +101,18 @@
     font-weight: normal;
   }
   
-  /* Hamburger menu positioning */
+  /* Hamburger menu positioning and sizing */
   .greedy-nav button {
     position: absolute;
     right: 0.5rem;
     margin: 0;
+    padding: 0.3rem !important; /* Smaller padding for smaller button */
   }
   
-  /* Make hamburger menu icon smaller */
-  .navicon {
-    width: 1.2rem !important;
-    height: 0.9rem !important;
-  }
-  
-  .navicon::before,
-  .navicon::after {
-    width: 1.2rem !important;
-    height: 0.125rem !important;
+  /* Make hamburger menu icon smaller while keeping 3 lines */
+  .greedy-nav .navicon {
+    width: 0.9rem !important;
+    height: 0.7rem !important;
   }
 }
 
