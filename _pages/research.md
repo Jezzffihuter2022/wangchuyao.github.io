@@ -16,6 +16,7 @@ My research program has produced **8 papers** with 5 as first author and 6 as co
 Co-first and corresponding author, *Humanities and Social Sciences Communications*, 2025; IF = 3.6, SSCI Q1  
 Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (Nature Portfolio); highlighted by LSE DSI on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7338216361464127490/), [X](https://x.com/lsedatascience/status/1932453471413760431?s=46), and official newsletter
 
+- Analyzed authoritarian governance strategies of conspiracy theories (CTs), including propagation, tolerance, and rebuttal
 - Combined qualitative case analysis, social network analysis, and topic modeling of 46,387 Weibo posts
 - Found that authoritarian strategies for managing conspiracy theories risk losing control and provoking backlash
 
@@ -32,27 +33,28 @@ Explicit labeling of online content produced by AI is a widely discussed policy 
 
 **[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: An Institutional Logic Perspective on China’s Public Sector**  
 Second author; under review at *Technology in Society*; IF = 12.5, SSCI Q1
-- Revealed priority conflicts between bureaucratic control and professional logics in LLM deployment
-- Analyzed how cross-sector negotiations shaped model choice and data security
+- Revealed priority conflicts between bureaucratic mandates and expert-informed approaches
+- Showed that experts shaped design while bureaucrats retained control over political boundaries
 
 **[4] Framing Trump in Chinese and US News: A Computational Visual Analysis**  
 Sole author; under review at *International Journal of Press/Politics*; IF = 4.3, SSCI Q1  
 Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
-- Applied machine learning on 257,056 images to reveal visual framing bias
-- Found Chinese media portray Trump as more negative and less trustworthy than US media
+- Applied computational emotional profiling of 257,056 images to reveal political bias in policy framing
+- Found Chinese media portray Trump as more negative and less trustworthy than US media outlets
 
 **[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
 Second and corresponding author; under review at *Policy & Internet*; IF = 3.6, SSCI Q1
-- Applied LLM-based annotation on 343,764 tweets with counterfactual simulation
-- Demonstrated how regulatory intervention induces online self-censorship
+- Applied LLM-based annotation on 343,764 tweets with counterfactual social simulation
+- Demonstrated how state regulation triggers conditional self-censorship via collective behavioral shifts
 
 ## Working Papers
 
 **[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
 First author; targeting *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
-- Investigated how LLMs' sycophancy produces biased information
-- Designed personalized human-AI conversational survey experiment (n = 3,100)
+- Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
+- Investigated how LLMs’ sycophancy produces biased information and distorts user policy attitudes
+- Designedapersonalized,human-LLMconversationalsurveyexperimentonaprobabilitysampleof3,100
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
 Second and corresponding author; targeting *Political Analysis*; IF = 5.4, SSCI Q1  
