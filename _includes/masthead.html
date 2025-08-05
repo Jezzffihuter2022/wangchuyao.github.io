@@ -1,5 +1,4 @@
 {% include base_path %}
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -13,14 +12,56 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item mobile-priority-{{ forloop.index }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
-          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <li id="theme-toggle" class="masthead__menu-item persist tail theme-toggle-mobile">
+          <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+        </li>
       </nav>
     </div>
   </div>
 </div>
+
+<style>
+/* Mobile navigation adjustments */
+@media (max-width: 768px) {
+  /* Move theme toggle to the right corner */
+  .theme-toggle-mobile {
+    position: absolute;
+    right: 50px; /* Adjust based on hamburger menu button width */
+    top: 50%;
+    transform: translateY(-50%);
+    list-style: none;
+  }
+  
+  /* Show more menu items on mobile */
+  .masthead__menu-item.mobile-priority-1,
+  .masthead__menu-item.mobile-priority-2,
+  .masthead__menu-item.mobile-priority-3 {
+    display: inline-block !important;
+  }
+  
+  /* Hide items that don't fit */
+  .masthead__menu-item.mobile-priority-4,
+  .masthead__menu-item.mobile-priority-5 {
+    display: none;
+  }
+  
+  /* Adjust spacing for mobile menu items */
+  .visible-links {
+    padding-right: 100px; /* Make room for theme toggle and hamburger */
+  }
+  
+  .masthead__menu-item {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  
+  /* Smaller font size for mobile to fit more items */
+  .masthead__menu-item a {
+    font-size: 0.9rem;
+  }
+}
+</style>
