@@ -23,7 +23,7 @@ Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025-26
 ## Editorial Service
 
 **Journal Reviewer**  
-*Humanities and Social Sciences Communications* (Nature Portfolio)
+*Humanities and Social Sciences Communications* (Nature Portfolio), 2024
 
 **Conference Reviewer**  
 International Conference on Computational Social Science (IC2S2), 2024-25  
