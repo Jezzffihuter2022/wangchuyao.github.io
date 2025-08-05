@@ -13,7 +13,7 @@ I contribute to academic service through peer reviewing, institutional developme
 Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Institute, 2025-26
 
 - Initiated interdisciplinary collaboration opportunities connecting PhD students and faculty across departments
-- Contributed to the strategic development of initiatives integrating social science research with generative AI
+- Contributed to the strategic development of initiatives integrating social science research and education with generative AI
   
 **Convenor and Presenter**  
 Ph.D. Affiliate Lightning Talk, LSE Data Science Institute, 2025-26
