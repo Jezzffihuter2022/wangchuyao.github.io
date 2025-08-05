@@ -30,10 +30,11 @@
   /* Move theme toggle to the right corner */
   .theme-toggle-mobile {
     position: absolute;
-    right: 50px; /* Adjust based on hamburger menu button width */
+    right: 60px; /* Move further right to avoid overlap */
     top: 50%;
     transform: translateY(-50%);
     list-style: none;
+    z-index: 100; /* Ensure it's above other elements */
   }
   
   /* Show more menu items on mobile */
@@ -51,18 +52,27 @@
   
   /* Adjust spacing for mobile menu items */
   .visible-links {
-    padding-right: 100px; /* Make room for theme toggle and hamburger */
+    padding-right: 110px; /* Make more room for theme toggle and hamburger */
+    margin: 0;
+    padding-left: 0;
   }
   
+  /* Minimal spacing between menu items */
   .masthead__menu-item {
-    margin-left: 0.2rem;
-    margin-right: 0.2rem;
+    margin-left: 0;
+    margin-right: 0;
   }
   
-  /* Smaller font size for mobile to fit more items */
+  /* Smaller font size and tighter padding */
   .masthead__menu-item a {
-    font-size: 0.85rem;
-    padding: 0.3rem 0.4rem;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.25rem;
+    letter-spacing: -0.02em; /* Slightly tighter letter spacing */
+  }
+  
+  /* Special handling for Home to save space */
+  .masthead__menu-item--lg a {
+    padding: 0.2rem 0.3rem;
   }
 }
 </style>
