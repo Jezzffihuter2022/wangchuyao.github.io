@@ -5,133 +5,74 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="/">Home</a></li>
+         <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="/">Home</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item mobile-priority-{{ forloop.index }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
-          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <li id="theme-toggle" class="masthead__menu-item persist tail theme-toggle-mobile">
+          <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+        </li>
       </nav>
     </div>
   </div>
 </div>
+
 <style>
-/* Override the greedy-nav behavior to show all items */
-@media screen and (max-width: 768px) {
-  /* Force all menu items to be visible */
-  .greedy-nav .visible-links li.masthead__menu-item {
+/* Mobile navigation adjustments */
+@media (max-width: 768px) {
+  /* Move theme toggle to the right corner */
+  .theme-toggle-mobile {
+    position: absolute;
+    right: 60px; /* Move further right to avoid overlap */
+    top: 50%;
+    transform: translateY(-50%);
+    list-style: none;
+    z-index: 100; /* Ensure it's above other elements */
+  }
+  
+  /* Show more menu items on mobile */
+  .masthead__menu-item.mobile-priority-1,
+  .masthead__menu-item.mobile-priority-2,
+  .masthead__menu-item.mobile-priority-3 {
     display: inline-block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    position: static !important;
-    width: auto !important;
-    height: auto !important;
-    overflow: visible !important;
   }
   
-  /* Prevent items from being moved to hidden-links */
-  .greedy-nav .hidden-links {
-    display: none !important;
+  /* Hide items that don't fit */
+  .masthead__menu-item.mobile-priority-4,
+  .masthead__menu-item.mobile-priority-5 {
+    display: none;
   }
   
-  /* Reduce spacing and font size for mobile */
+  /* Adjust spacing for mobile menu items */
+  .visible-links {
+    padding-right: 110px; /* Make more room for theme toggle and hamburger */
+    margin: 0;
+    padding-left: 0;
+  }
+  
+  /* Minimal spacing between menu items */
   .masthead__menu-item {
-    margin-left: 0.3rem !important;
-    margin-right: 0.3rem !important;
+    margin-left: 0;
+    margin-right: 0;
   }
   
-  .masthead__menu-item:first-child {
-    margin-left: 0 !important;
-  }
-  
+  /* Smaller font size and tighter padding */
   .masthead__menu-item a {
-    font-size: 0.8rem !important;
-    padding: 0.25rem !important;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.25rem;
+    letter-spacing: -0.02em; /* Slightly tighter letter spacing */
   }
   
-  /* Ensure all menu items are visible */
-  .greedy-nav .visible-links {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto !important;
-    width: 100% !important;
+  /* Special handling for Home to save space */
+  .masthead__menu-item--lg a {
+    padding: 0.2rem 0.3rem;
   }
-  
-  /* Hide hamburger menu if all items fit */
-  .greedy-nav button {
-    display: none !important;
-  }
-  
-  /* Override any transform or position that might hide items */
-  .greedy-nav .visible-links > * {
-    transform: none !important;
-    position: static !important;
-  }
-}
-
-/* Smaller screens need even more compact layout */
-@media screen and (max-width: 480px) {
-  .masthead__menu-item {
-    margin-left: 0.2rem !important;
-    margin-right: 0.2rem !important;
-  }
-  
-  .masthead__menu-item a {
-    font-size: 0.7rem !important;
-    padding: 0.2rem !important;
-  }
-}
-
-/* Ensure the navigation doesn't collapse items on load */
-.greedy-nav.js-menu-is-closed .visible-links li,
-.greedy-nav.js-menu-is-open .visible-links li {
-  display: inline-block !important;
 }
 </style>
-
-<script>
-// Force show all menu items on mobile
-document.addEventListener('DOMContentLoaded', function() {
-  if (window.innerWidth <= 768) {
-    // Get all hidden menu items
-    const hiddenItems = document.querySelectorAll('.greedy-nav .hidden-links li');
-    const visibleList = document.querySelector('.greedy-nav .visible-links');
-    
-    // Move all hidden items back to visible
-    hiddenItems.forEach(function(item) {
-      if (visibleList) {
-        visibleList.appendChild(item);
-      }
-    });
-    
-    // Disable greedy nav functionality
-    const greedyNav = document.querySelector('.greedy-nav');
-    if (greedyNav) {
-      greedyNav.classList.remove('js-menu-is-closed');
-      greedyNav.classList.add('all-visible');
-    }
-  }
-});
-
-// Also handle window resize
-window.addEventListener('resize', function() {
-  if (window.innerWidth <= 768) {
-    const hiddenItems = document.querySelectorAll('.greedy-nav .hidden-links li');
-    const visibleList = document.querySelector('.greedy-nav .visible-links');
-    
-    hiddenItems.forEach(function(item) {
-      if (visibleList && !item.classList.contains('masthead__menu-item')) {
-        visibleList.appendChild(item);
-      }
-    });
-  }
-});
-</script>
