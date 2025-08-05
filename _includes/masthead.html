@@ -96,3 +96,42 @@
   display: inline-block !important;
 }
 </style>
+
+<script>
+// Force show all menu items on mobile
+document.addEventListener('DOMContentLoaded', function() {
+  if (window.innerWidth <= 768) {
+    // Get all hidden menu items
+    const hiddenItems = document.querySelectorAll('.greedy-nav .hidden-links li');
+    const visibleList = document.querySelector('.greedy-nav .visible-links');
+    
+    // Move all hidden items back to visible
+    hiddenItems.forEach(function(item) {
+      if (visibleList) {
+        visibleList.appendChild(item);
+      }
+    });
+    
+    // Disable greedy nav functionality
+    const greedyNav = document.querySelector('.greedy-nav');
+    if (greedyNav) {
+      greedyNav.classList.remove('js-menu-is-closed');
+      greedyNav.classList.add('all-visible');
+    }
+  }
+});
+
+// Also handle window resize
+window.addEventListener('resize', function() {
+  if (window.innerWidth <= 768) {
+    const hiddenItems = document.querySelectorAll('.greedy-nav .hidden-links li');
+    const visibleList = document.querySelector('.greedy-nav .visible-links');
+    
+    hiddenItems.forEach(function(item) {
+      if (visibleList && !item.classList.contains('masthead__menu-item')) {
+        visibleList.appendChild(item);
+      }
+    });
+  }
+});
+</script>
