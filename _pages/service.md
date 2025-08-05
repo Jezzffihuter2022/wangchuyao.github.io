@@ -7,7 +7,7 @@ author_profile: true
 
 I contribute to academic service through initiative leadership, peer reviewing, community building, and stakeholder outreach.
 
-## Interdisciplinary Initiative
+## Initiative Leadership
 
 **Founding Member**  
 Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Institute, 2025-26
