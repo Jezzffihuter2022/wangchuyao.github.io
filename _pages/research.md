@@ -54,7 +54,7 @@ First author; targeting *Proceedings of the National Academy of Sciences* (PNAS)
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
 - Investigated how LLMs’ sycophancy produces biased information and distorts user policy attitudes
-- Designedapersonalized,human-LLMconversationalsurveyexperimentonaprobabilitysampleof3,100
+- Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
 Second and corresponding author; targeting *Political Analysis*; IF = 5.4, SSCI Q1  
