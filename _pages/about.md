@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Overview"
-excerpt: "Chuyao Wang, PhD researcher at LSE"
+excerpt: "Chuyao Wang, PhD candidate at LSE"
 author_profile: true
 redirect_from: 
   - /about/
