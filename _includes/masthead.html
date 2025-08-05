@@ -23,10 +23,25 @@
     </div>
   </div>
 </div>
-
 <style>
 /* Override the greedy-nav behavior to show all items */
 @media screen and (max-width: 768px) {
+  /* Force all menu items to be visible */
+  .greedy-nav .visible-links li.masthead__menu-item {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: static !important;
+    width: auto !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+  
+  /* Prevent items from being moved to hidden-links */
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+  
   /* Reduce spacing and font size for mobile */
   .masthead__menu-item {
     margin-left: 0.3rem !important;
@@ -47,16 +62,18 @@
     display: flex !important;
     flex-wrap: nowrap !important;
     overflow-x: auto !important;
-  }
-  
-  .greedy-nav .visible-links li {
-    display: inline-block !important;
-    visibility: visible !important;
+    width: 100% !important;
   }
   
   /* Hide hamburger menu if all items fit */
   .greedy-nav button {
     display: none !important;
+  }
+  
+  /* Override any transform or position that might hide items */
+  .greedy-nav .visible-links > * {
+    transform: none !important;
+    position: static !important;
   }
 }
 
@@ -71,5 +88,11 @@
     font-size: 0.7rem !important;
     padding: 0.2rem !important;
   }
+}
+
+/* Ensure the navigation doesn't collapse items on load */
+.greedy-nav.js-menu-is-closed .visible-links li,
+.greedy-nav.js-menu-is-open .visible-links li {
+  display: inline-block !important;
 }
 </style>
