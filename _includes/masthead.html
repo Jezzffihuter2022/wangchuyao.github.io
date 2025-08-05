@@ -56,10 +56,10 @@
     padding-left: 0;
   }
   
-  /* Minimal spacing between menu items */
+  /* Very minimal spacing between menu items */
   .masthead__menu-item {
-    margin-left: 0.1rem;
-    margin-right: 0.1rem;
+    margin-left: 0.05rem;
+    margin-right: 0.05rem;
   }
   
   /* Remove margin for first and last visible items */
@@ -71,11 +71,12 @@
     margin-right: 0;
   }
   
-  /* Consistent font size for all visible menu items */
+  /* 1rem font size for all items including theme toggle */
   .masthead__menu-item a,
-  .masthead__menu-item--lg a {
-    font-size: 0.9rem;
-    padding: 0.2rem 0.15rem;
+  .masthead__menu-item--lg a,
+  .theme-toggle-mobile a {
+    font-size: 1rem !important;
+    padding: 0.15rem 0.1rem;
     letter-spacing: -0.01em;
   }
   
@@ -83,19 +84,29 @@
   .masthead__menu-item--lg a {
     font-weight: normal;
   }
+  
+  /* Theme toggle icon size to match text */
+  .theme-toggle-mobile i {
+    font-size: 1rem !important;
+  }
 }
 
 /* Even smaller screens */
 @media (max-width: 480px) {
   .masthead__menu-item {
-    margin-left: 0.05rem;
-    margin-right: 0.05rem;
+    margin-left: 0.02rem;
+    margin-right: 0.02rem;
   }
   
   .masthead__menu-item a,
-  .masthead__menu-item--lg a {
-    font-size: 0.85rem;
-    padding: 0.15rem 0.1rem;
+  .masthead__menu-item--lg a,
+  .theme-toggle-mobile a {
+    font-size: 0.9rem !important;
+    padding: 0.1rem 0.05rem;
+  }
+  
+  .theme-toggle-mobile i {
+    font-size: 0.9rem !important;
   }
 }
 </style>
