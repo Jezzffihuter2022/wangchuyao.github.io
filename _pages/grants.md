@@ -13,7 +13,7 @@ This demonstrates the interdisciplinary appeal and real-world relevance of my re
 **5 grants** (4 external and 1 university level), all as the sole Principal Investigator (PI).
 
 1\. **Research and Impact Support Fund (Artificial Intelligence Spotlight Call), £ 4,817**, LSE, 2024-25  
-&nbsp;&nbsp;&nbsp;&nbsp;Top 16 student awardees in the inaugural cohort, highlighted by LSE: [World-leading AI research](https://www.lse.ac.uk/DSI/AI/risf-projects)
+&nbsp;&nbsp;&nbsp;&nbsp;Top 16 student awardees in the inaugural cohort, highlighted by LSE: [World-leading AI Research](https://www.lse.ac.uk/DSI/AI/risf-projects)
 
 2\. **OpenAI's Researcher Access Program, US$ 5,000**, OpenAI, 2024-25  
 &nbsp;&nbsp;&nbsp;&nbsp;Tailored ChatGPT API for social science research (e.g., LLM sycophancy and persuasion)
