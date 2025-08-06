@@ -7,7 +7,7 @@ author_profile: true
 
 I have secured a total amount of **US$ 248,000 in research grants and academic awards**. 
 
-This demonstrates the broad appeal and real-world relevance of my research, and my ability to communicate its significance to varied stakeholders. With several high-impact projects underway, I am well-positioned to attract substantial grants in the future.
+This demonstrates the interdisciplinary appeal and real-world impact of my research. With several high-impact projects underway, I am well-positioned to attract substantial grants in the future.
 
 ## Research Grants
 **5 grants** (4 external and 1 university level), all as the sole Principal Investigator (PI).
