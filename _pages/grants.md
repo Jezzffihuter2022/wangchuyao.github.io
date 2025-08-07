@@ -20,7 +20,7 @@ This demonstrates the interdisciplinary appeal and real-world relevance of my re
 
 3\. Google Cloud Research Credits, US$ 1,000, Google, 2024-25
 
-4\. ACM WebSci24 Student Grant, € 500, Association for Computing Machinery, 2024
+4\. ACM WebSci24 Student Grant, € 500, Association for Computing Machinery (ACM), 2024
 
 5\. **SICSS Research Grant**, Social Science Research Council (SSRC), USA, 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;Top 25 awardees among 21 sites worldwide, highlighted by SSRC: [SICSS Research Grantees](https://www.ssrc.org/programs/digital-culture/the-summer-institutes-in-computational-social-science/sicss-research-grantees/)
