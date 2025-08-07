@@ -41,12 +41,12 @@ Dean's Award, HKUST (3 Places, Top 5%), 2020
 
 Scholarship for UCLA Study, SDU, 2017
 
-## Competitively Awarded but Declined
+## Declined Offers
 
-**Hong Kong Ph.D. Fellowship, HK$1,010,000**, Research Grant Council [Declined]
+**Hong Kong Ph.D. Fellowship, HK$ 1,010,000**, Research Grant Council [Declined]
 
-Computational Social Science (CSS) Ph.D. Fellowship, HK$210,000, Chinese University of Hong Kong (CUHK) CSS Lab [Declined]
+Computational Social Science (CSS) Ph.D. Fellowship, HK$ 210,000, Chinese University of Hong Kong (CUHK) CSS Lab [Declined]
 
-Research and Dissertation Grant, HK$90,000, CUHK [Declined]
+Research and Dissertation Grant, HK$ 90,000, CUHK [Declined]
 
-Vice-Chancellor's Ph.D. Scholarship, HK$80,000, CUHK [Declined]
+Vice-Chancellor's Ph.D. Scholarship, HK$ 80,000, CUHK [Declined]
