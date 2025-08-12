@@ -30,7 +30,7 @@ My CV is [here](https://www.dropbox.com/scl/fi/5vyj2ln01z7cmfperdzf9/ChuyaoWANG-
       <li>AI Governance and Policy</li>
       <li>Political Communication and Public Opinion</li>
       <li>Computational Social Science</li>
-      <li>AI for Social Science</li>
+      <li>AI in Social Science</li>
       <li>Survey Experiment</li>
     </ul>
   </div>
