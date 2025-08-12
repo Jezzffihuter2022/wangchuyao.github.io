@@ -24,7 +24,7 @@ Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (N
 
 **[2, Job Market Paper] AI Labeling Reduces the Perceived Accuracy of Online Content but Has Limited Broader Effects** 
 
-First and corresponding author; under review at *PNAS Nexus* (a sibling journal of PNAS); IF = 3.8
+First and corresponding author; under review at *PNAS Nexus* (the sibling journal of PNAS); IF = 3.8
 Full text at [arXiv](https://arxiv.org/pdf/2506.16202)
 
 Abstract 
