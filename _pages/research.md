@@ -33,8 +33,8 @@ Explicit labeling of online content produced by AI is a widely discussed policy 
 
 **[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: An Institutional Logic Perspective on China’s Public Sector**  
 Second author; under review at *Technology in Society*; IF = 12.5, SSCI Q1
-- Revealed priority conflicts between bureaucratic mandates and expert-informed approaches
-- Showed that experts shaped design while bureaucrats retained control over political boundaries
+- Revealed conflicts between political risk control and expert innovation in LLM adoption
+- Showed that bureaucrats conceded on technical decisions while enforcing censorship red lines, enabling bounded expert agency
 
 **[4] Framing Trump in Chinese and US News: A Computational Visual Analysis**  
 Sole author; under review at *International Journal of Press/Politics*; IF = 4.3, SSCI Q1  
@@ -45,7 +45,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 **[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
 Second and corresponding author; under review at *Policy & Internet*; IF = 3.6, SSCI Q1
 - Applied LLM-based annotation on 343,764 tweets with counterfactual social simulation
-- Demonstrated how state regulation triggers conditional self-censorship via collective behavioral shifts
+- Demonstrated how state regulation triggers conditional self-censorship via collective adapatation
 
 ## Working Papers
 
