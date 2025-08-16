@@ -53,18 +53,18 @@ Second and corresponding author; under review at *Policy & Internet*; IF = 3.6, 
 ## Working Papers
 
 **[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
-First author; targeting *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
+First author; in prepartion for *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
 - Investigated how LLMs’ sycophancy produces biased information and distorts user policy attitudes
 - Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
-Second and corresponding author; targeting *Political Analysis*; IF = 5.4, SSCI Q1  
+Second and corresponding author; in prepartion for *Political Analysis*; IF = 5.4, SSCI Q1  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
-Sole author; targeting *Political Science Research and Methods*; IF = 2.6, SSCI Q1
+Sole author; in prepartion for *Political Science Research and Methods*; IF = 2.6, SSCI Q1
 
 ## Summer Institute and Conference Acceptances  
 
