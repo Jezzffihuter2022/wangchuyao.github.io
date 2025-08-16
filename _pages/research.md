@@ -9,9 +9,21 @@ I investigate how state strategies and generative AI jointly affect citizens’ 
 
 My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions under review at *PNAS Nexus*, *Technology in Society*, *The International Journal of Press/Politics*, and projects targeting *PNAS* and *Political Analysis*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
 
+
+## Job Market Paper
+
+**[1] AI Labeling Reduces the Perceived Accuracy of Online Content but Has Limited Broader Effects** 
+
+First and corresponding author; under review at *PNAS Nexus* (the sibling journal of *PNAS*); IF = 3.8
+Full text at [arXiv](https://arxiv.org/pdf/2506.16202)
+
+Abstract 
+
+Explicit labeling of online content produced by AI is a widely discussed policy for ensuring transparency and promoting public confidence. Yet little is known about the scope of AI labeling effects on public assessments of labeled content. We contribute new evidence on this question from a survey experiment using a high-quality nationally representative probability sample (sample size = 3,861). First, we demonstrate that explicit AI labeling of a news article about a proposed public policy reduces its perceived accuracy. Second, we test whether there are spillover effects in terms of policy interest, policy support, and general concerns about online misinformation. We find that AI labeling reduces interest in the policy, but neither influences support for the policy nor triggers general concerns about online misinformation. We further find that increasing the salience of AI use reduces the negative impact of AI labeling on perceived accuracy, while one-sided versus two-sided framing of the policy has no moderating effect. Overall, our findings suggest that the effects of algorithm aversion induced by AI labeling of online content are limited in scope, and that transparency policies may benefit from contextualizing AI use to mitigate unintended public skepticism.
+
 ## Publication
 
-**[1] Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China** 
+**[2] Panacea or Pandora's Box: Diverse Governance Strategies to Conspiracy Theories and Their Consequences in China** 
 
 Co-first and corresponding author, *Humanities and Social Sciences Communications*, 2025; IF = 3.6, SSCI Q1  
 Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (Nature Portfolio); highlighted by LSE DSI on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7338216361464127490/), [X](https://x.com/lsedatascience/status/1932453471413760431?s=46), and official newsletter
@@ -22,17 +34,8 @@ Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (N
 
 ## Under Review
 
-**[2, Job Market Paper] AI Labeling Reduces the Perceived Accuracy of Online Content but Has Limited Broader Effects** 
-
-First and corresponding author; under review at *PNAS Nexus* (the sibling journal of *PNAS*); IF = 3.8
-Full text at [arXiv](https://arxiv.org/pdf/2506.16202)
-
-Abstract 
-
-Explicit labeling of online content produced by AI is a widely discussed policy for ensuring transparency and promoting public confidence. Yet little is known about the scope of AI labeling effects on public assessments of labeled content. We contribute new evidence on this question from a survey experiment using a high-quality nationally representative probability sample (sample size = 3,861). First, we demonstrate that explicit AI labeling of a news article about a proposed public policy reduces its perceived accuracy. Second, we test whether there are spillover effects in terms of policy interest, policy support, and general concerns about online misinformation. We find that AI labeling reduces interest in the policy, but neither influences support for the policy nor triggers general concerns about online misinformation. We further find that increasing the salience of AI use reduces the negative impact of AI labeling on perceived accuracy, while one-sided versus two-sided framing of the policy has no moderating effect. Overall, our findings suggest that the effects of algorithm aversion induced by AI labeling of online content are limited in scope, and that transparency policies may benefit from contextualizing AI use to mitigate unintended public skepticism.
-
 **[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: An Institutional Logic Perspective on China’s Public Sector**  
-Second author; under review at *Technology in Society*; IF = 12.5, SSCI Q1
+Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
 - Revealed conflicts between political risk control and expert innovation in LLM adoption
 - Showed that bureaucrats conceded on technical decisions while enforcing censorship red lines, enabling bounded expert agency
 
