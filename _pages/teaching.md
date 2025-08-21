@@ -14,15 +14,15 @@ I have taught **3 postgraduate and undergraduate courses across 7 terms** in soc
 ## Teaching Experience
 
 **MY464 - Introduction to Quantitative Analysis for Media and Communications**  
-Graduate Course, Department of Methodology, LSE
+Graduate Course, LSE
 
 **SOSC1190 - China and the World: China's Development in Historical and Comparative Perspectives** (3 terms)  
-Undergraduate Course, Division of Social Science, HKUST
+Undergraduate Course, HKUST
 
 **SOSC1470 - Political and Economic Development of Modern Japan** (3 terms)  
-Undergraduate Course, Division of Social Science, HKUST
+Undergraduate Course, HKUST
 
-## Pedagogical Training
+## Formal Pedagogical Training
 
 **PDEV6800I - Introduction to Teaching and Learning in Higher Education** (3 terms)  
 HKUST 
