@@ -29,21 +29,3 @@ HKUST
 
 **PDEV6770D - Professional Development for Research Postgraduate Students** (3 terms)  
 HKUST
-
-## Teaching Interests
-
-**Core Courses**
-- Political Communication
-- AI and Society
-- Introduction to Research Methods
-
-**Advanced Courses**
-- AI Governance
-- Public Policy Analysis
-
-**Methods Training**
-- Computational Social Science
-- Survey and Experiment
-- AI for Social Science Research
-
-These reflect my general teaching interests and can be tailored to specific departmental curricula.
