@@ -14,7 +14,8 @@ My research program has produced **8 papers** with 5 as first author and 6 as co
 
 **[1] Limited Scope of Aversion to AI-Labeled Policy Information: A Nationally Representative Survey Experiment** 
 
-First and corresponding author; under review at *Government Information Quarterly*; IF = 10.0
+First and corresponding author; under review at *Government Information Quarterly*; IF = 10.0, SSCI Q1
+
 Full text at [arXiv](https://arxiv.org/pdf/2506.16202)
 
 Abstract 
@@ -46,7 +47,7 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 - Found Chinese media portray Trump as more negative and less trustworthy than US media outlets
 
 **[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
-Second and corresponding author; under review at *PNAS Nexus* (sibing journal of PNAS); IF = 3.8
+Second and corresponding author; under review at *PNAS Nexus* (the sibling journal of *PNAS*); IF = 3.8
 - Applied LLM-based annotation on 343,764 tweets with counterfactual social simulation
 - Demonstrated how state regulation triggers conditional self-censorship via collective adapatation
 
