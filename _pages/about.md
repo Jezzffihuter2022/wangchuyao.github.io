@@ -12,7 +12,7 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 
 **I am on the academic job market for 2025–26.**
 
-My research spans AI governance and policy, political communication, and computational social science. Substantively, I examine how governance strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy support. These dynamics can produce unintended consequences across political systems. Methodologically, I combine human-AI conversational experiments, survey experiments, computational text and image analysis, and social network analysis.
+My research spans AI governance and policy, political communication, and AI in society. Substantively, I examine how governance strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy support. These dynamics can produce unintended consequences across political systems. Methodologically, I combine human-AI conversational experiments, survey experiments, computational text and image analysis, and social network analysis.
 
 I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://arxiv.org/abs/2506.16202) under review at *PNAS Nexus*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google, alongside additional studies in progress for reputable political science journals.
 
@@ -29,8 +29,8 @@ My CV is [here](https://www.dropbox.com/scl/fi/4oxl93cxi5c2ermfwu187/ChuyaoWANG-
     <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
       <li>AI Governance and Policy</li>
       <li>Political Communication and Public Opinion</li>
+      <li>AI and Society</li>
       <li>Computational Social Science</li>
-      <li>AI in Social Science</li>
       <li>Survey Experiment</li>
     </ul>
   </div>
