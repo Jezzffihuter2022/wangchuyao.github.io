@@ -61,11 +61,11 @@ First author; in prepartion for *Proceedings of the National Academy of Sciences
 - Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
-Second and corresponding author; IF = 5.4, SSCI Q1  
+Second and corresponding author  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
 **[8] Advancing Heterogeneous Treatment Effect Analysis**  
-Sole author; IF = 2.6, SSCI Q1
+Sole author
 
 ## Summer Institute and Conference Acceptances  
 
