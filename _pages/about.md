@@ -12,9 +12,9 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 
 **I am on the academic job market for 2025–26.**
 
-My research spans AI governance and policy, political communication, and AI in society. Substantively, I examine how governance strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy support. These dynamics can produce unintended consequences across policy contexts. Methodologically, I combine human-AI conversational experiments, survey experiments, computational text and image analysis, and social network analysis.
+My research spans AI policy, digital governance, and AI in social science research. Substantively, I examine how governance strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy support. These dynamics can produce unintended consequences in Asia and globally. Methodologically, I combine human-AI conversational experiments, survey experiments, computational text and image analysis, and social network analysis.
 
-I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/dj2nuqcqevgtjgxazy1xy/Job_Market_Paper.pdf?rlkey=b0edp511k88eme2s5mww9y31s&st=ltul8bhu&dl=0) under review at *Government Information Quarterly*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google, alongside additional studies in progress for reputable political science journals.
+I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/dj2nuqcqevgtjgxazy1xy/Job_Market_Paper.pdf?rlkey=b0edp511k88eme2s5mww9y31s&st=ltul8bhu&dl=0) under review at *Government Information Quarterly*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google, alongside additional studies in progress for reputable public policy journals.
 
 My teaching experence include courses related to comparative politics, political communication, Asian studies, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
@@ -27,11 +27,12 @@ My CV is [here](https://www.dropbox.com/scl/fi/4oxl93cxi5c2ermfwu187/ChuyaoWANG-
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
     <h3 style="margin-bottom: 0.5rem;">Research Interests</h3>
     <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
-      <li>AI Governance and Policy</li>
-      <li>Political Communication and Public Opinion</li>
+      <li>AI Policy</li>
+      <li>Digital Governance</li>
       <li>AI and Society</li>
       <li>Computational Social Science</li>
-      <li>Survey Experiment</li>
+      <li>AI in Social Research</li>
+      <li>Political Communication and Public Opinion</li>
     </ul>
   </div>
 
