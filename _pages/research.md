@@ -12,7 +12,7 @@ My research program has produced **8 papers** with 5 as first author and 6 as co
 
 ## Job Market Paper
 
-**[1] Scope of Public Aversion to AI-Labeled Policy Information: A Survey Experiment** 
+**[1] Scope of Public Aversion to AI-labeled Policy Information: A Survey Experiment** 
 
 First and corresponding author; under review at *Government Information Quarterly*; IF = 10.0, SSCI Q1
 
