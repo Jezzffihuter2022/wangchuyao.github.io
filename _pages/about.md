@@ -43,13 +43,13 @@ My CV is [here](https://www.dropbox.com/scl/fi/4oxl93cxi5c2ermfwu187/ChuyaoWANG-
       <li>
         Ph.D. in Social Research Methods, 2022–26<br>
         <span style="display:inline-block; padding-left: 1em;">
-          LSE, fully funded
+          LSE, with full funding
         </span>
       </li>
       <li>
         M.Phil. in Social Science, 2020–22<br>
         <span style="display:inline-block; padding-left: 1em;">
-          Hong Kong University of Science and Technology (HKUST), fully funded
+          Hong Kong University of Science and Technology (HKUST), with full funding
         </span>
       </li>
       <li>
