@@ -18,9 +18,9 @@ First and corresponding author; under review at *Government Information Quarterl
 
 Full text [online](https://www.dropbox.com/scl/fi/dj2nuqcqevgtjgxazy1xy/Job_Market_Paper.pdf?rlkey=b0edp511k88eme2s5mww9y31s&st=ltul8bhu&dl=0)
 
-Abstract 
+Summary
 
-Explicit labeling of online content produced by AI is a widely discussed policy for ensuring transparency and promoting public confidence. Yet little is known about the scope of AI labeling effects on public perception of policy communication. To examine the potential transparency–trust trade-off, we present evidence from a preregistered, nationally representative survey experiment (n = 3,861). We demonstrate that AI labeling of a news article about a proposed public policy reduces perceived accuracy and policy interest. However, its effects do not spill over to policy support or general misinformation concerns. Counterintuitively, increasing the salience of AI use reduces the negative impact of AI labeling on perceived accuracy, while one-sided versus two-sided framing has no moderating effect. Overall, our findings indicate that the adverse effects of AI labeling is limited in scope and empricially support its proper implementation.
+Explicit labeling of online content produced by AI is a widely discussed policy for ensuring transparency and promoting public confidence. Yet little is known about the scope of AI labeling effects on public perception of policy communication. To examine the potential transparency–trust trade-off, I present evidence from a preregistered, nationally representative survey experiment (n = 3,861). I demonstrate that AI labeling of a news article about a proposed public policy reduces perceived accuracy and policy interest. However, its effects do not spill over to policy support or general misinformation concerns. Counterintuitively, increasing the salience of AI use reduces the negative impact of AI labeling on perceived accuracy, while one-sided versus two-sided framing has no moderating effect. Overall, our findings indicate that the adverse effects of AI labeling is limited in scope and empricially support its proper implementation.
 
 ## Publication
 
