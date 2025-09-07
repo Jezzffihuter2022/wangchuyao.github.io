@@ -18,7 +18,7 @@ I have authored 8 papers, all published, under review, or in preparation for lea
 
 My teaching experence include courses related to comparative politics, political communication, Asian studies, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
-My CV is [here](https://www.dropbox.com/scl/fi/dvaf6v272gxtju8otgtn9/ChuyaoWANG-LSE-CV-Website.pdf?rlkey=ru5e9zs2m29cu92h0uhhlste5&st=srhko3pi&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
+My CV is [here](https://www.dropbox.com/scl/fi/pveg1aw85p1rlf3cjf5ye/ChuyaoWANG-LSE-CV-Website.pdf?rlkey=fozz63mde2ose107evcp1ve85&st=q950olrm&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
 
 <!-- Two-column layout: Research Interests + Education -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem;">
