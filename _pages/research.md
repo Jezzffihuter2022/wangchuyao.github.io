@@ -36,7 +36,7 @@ Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (N
 
 ## Under Review
 
-**[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: An Institutional Logic Perspective on China’s Public Sector**  
+**[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: Institutional Logics in China**  
 Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
 - Revealed conflicts between political risk control and expert innovation in LLM adoption
 - Showed that bureaucrats conceded on technical decisions while enforcing censorship red lines, enabling bounded expert agency
