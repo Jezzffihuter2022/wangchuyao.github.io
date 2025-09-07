@@ -61,7 +61,7 @@ First author; in prepartion for *Proceedings of the National Academy of Sciences
 - Investigated how LLMs’ sycophancy produces biased information and distorts user policy attitudes
 - Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
-**[7] How AI Labeling Affects Policy Support in Social Networks: LLM-powered Simulation and Survey Experiment**  
+**[7] How AI Labeling Affects Policy Support in Social Networks: Social Simulation and Survey Experiment**  
 Second and corresponding author  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
