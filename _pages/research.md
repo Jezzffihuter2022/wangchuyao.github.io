@@ -7,7 +7,7 @@ author_profile: true
 
 I investigate how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences by combining computational and experimental methods.
 
-My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions under review at *Government Information Quarterly*, *PNAS Nexus*, *Regulation & Governance*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. My working papers have received support from competitive grants from LSE, OpenAI, and Google.
+My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions under review at *Government Information Quarterly*, *PNAS Nexus*, *Regulation & Governance*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. My research has received support from competitive grants from LSE, OpenAI, Google, and Social Science Research Council (USA).
 
 
 ## Job Market Paper
