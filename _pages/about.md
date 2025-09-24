@@ -29,9 +29,9 @@ My CV is [here](https://www.dropbox.com/scl/fi/4tangaud2cg3p1nq69rv8/ChuyaoWANG_
     <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
       <li>AI Policy</li>
       <li>Digital Governance</li>
-      <li>Computational Social Science</li>
-      <li>AI in Social Science</li>
       <li>AI and Society</li>
+      <li>Computational Social Science</li>
+      <li>AI for Social Science Research</li>
       <li>Political Communication and Public Opinion</li>
     </ul>
   </div>
