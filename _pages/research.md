@@ -36,10 +36,10 @@ Published on [nature.com](https://www.nature.com/articles/s41599-024-04350-1) (N
 
 ## Under Review
 
-**[3] Bureaucrat-Expert Collaboration in Large Language Model Adoption: Institutional Logics in China**  
-Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
-- Revealed conflicts between political risk control and expert innovation in LLM adoption
-- Showed that bureaucrats conceded on technical decisions while enforcing censorship red lines, enabling bounded expert agency
+**[3] Governing Online Political Discourse: AI-Based Computational Analysis and Social Simulation**  
+Second and corresponding author; under review at *PNAS Nexus* (the sibling journal of *PNAS*); IF = 3.8
+- Applied LLM-based annotation on 343,764 tweets with counterfactual social simulation
+- Demonstrated how state regulation triggers conditional self-censorship via collective adapatation
 
 **[4] Framing Trump in Chinese and US News: A Computational Visual Analysis**  
 Sole author; under review at *International Journal of Press/Politics*; IF = 4.3, SSCI Q1  
@@ -47,18 +47,18 @@ Abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5319923)
 - Applied computational emotional profiling of 257,056 images to reveal political bias in policy framing
 - Found Chinese media portray Trump as more negative and less trustworthy than US media outlets
 
-**[5] Governing Online Political Discourse: A Social Simulation of Self-Censorship using Large Language Models**  
-Second and corresponding author; under review at *PNAS Nexus* (the sibling journal of *PNAS*); IF = 3.8
-- Applied LLM-based annotation on 343,764 tweets with counterfactual social simulation
-- Demonstrated how state regulation triggers conditional self-censorship via collective adapatation
+**[5] Bureaucrat-Expert Collaboration in Large Language Model Adoption: Institutional Logics in China**  
+Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
+- Revealed conflicts between political risk control and expert innovation in LLM adoption
+- Showed that bureaucrats conceded on technical decisions while enforcing censorship red lines, enabling bounded expert agency
 
 ## Working Papers
 
-**[6] How LLM Sycophancy Shapes Individuals' Perceived Social Norms and Sways Policy Attitude**  
+**[6] How AI Sycophancy Distorts Social Perceptions and Polarizes Policy Discussion: Evidence from Human-AI Conversational Experiments**  
 First author; in prepartion for *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
-- Investigated how LLMs’ sycophancy produces biased information and distorts user policy attitudes
+- Investigated how LLMs’ sycophancy distorts user perceptions and polarizes policy discussions
 - Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
 **[7] How AI Labeling Affects Policy Support in Social Networks: Social Simulation and Survey Experiment**  
