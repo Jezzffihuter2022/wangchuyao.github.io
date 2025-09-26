@@ -12,7 +12,7 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 
 **I am on the academic job market for 2025–26.**
 
-My research spans AI policy, digital governance, and AI in policy-making. Substantively, I examine how governance strategies and generative AI jointly affect citizens’ perceptions of legitimacy, mislead decision-making, and influence policy support. These dynamics can produce unintended consequences in Asia and globally. Methodologically, I combine human-AI conversational experiments, survey experiments, computational text and image analysis, and social network analysis.
+My research spans AI policy, digital governance, and AI in policy-making. Substantively, I examine how governance strategies and generative AI jointly affect public attitude, mislead decision-making, and influence policy support. These dynamics can produce unintended consequences in Asia and globally. Methodologically, I combine computational text, image, and network analysis with survey and human-AI conversational experiments.
 
 I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/4cahelmgd1tqvslrhkgrx/Job_Market_Paper.pdf?rlkey=p2k2syeit3i4qp7wytmzwxiq9&st=cos23949&dl=0](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) under review at *Government Information Quarterly*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
 
