@@ -55,7 +55,7 @@ Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
 ## Working Papers
 
 **[6] How AI Sycophancy Distorts Social Perceptions and Polarizes Policy Discussion: Evidence from Human-AI Conversational Experiments**  
-First author; in prepartion for *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
+First and corresponding author; in prepartion for *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
 - Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
 - Investigated how LLMs’ sycophancy distorts user perceptions and polarizes policy discussions
@@ -65,8 +65,8 @@ First author; in prepartion for *Proceedings of the National Academy of Sciences
 Second and corresponding author  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
-**[8] Advancing Heterogeneous Treatment Effect Analysis**  
-Sole author
+**Advancing Heterogeneous Treatment Effect Analysis with Machine Learning and Causal Inference**  
+Sole and corresponding author
 
 ## Summer Institute and Conference Acceptances  
 
