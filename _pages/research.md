@@ -57,7 +57,7 @@ Second author; under review at *Regulation & Governance*; IF = 3.8, SSCI Q1
 **[6] How AI Sycophancy Distorts Social Perceptions and Polarizes Policy Discussion: Evidence from Human-AI Conversational Experiments**  
 First and corresponding author; in prepartion for *Proceedings of the National Academy of Sciences* (PNAS); IF = 9.1, SCI Q1  
 *Supported by research grants totaling US$12,300 from OpenAI, Google, and LSE*
-- Articulated the concept of LLM sycophancy (adaptation to user preferences) and its policy relevance
+- Articulated the structural bias from AI sycophantic adaptation and its sociopolitical consequences
 - Investigated how LLMs’ sycophancy distorts user perceptions and polarizes policy discussions
 - Designed a personalized, human-LLM conversational survey experiment on a probability sample of 3,100
 
