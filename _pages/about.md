@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of Methodology](https://www.lse.ac.uk/Methodology), London School of Economics and Political Science (LSE), and a Ph.D. Affiliate at the LSE [Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at Department of Political Science at Yale University. 
+Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of Methodology](https://www.lse.ac.uk/Methodology), London School of Economics and Political Science (LSE), and a Ph.D. Affiliate at the LSE [Data Science Institute](https://www.lse.ac.uk/DSI). I am a Visiting Assistant in Research at the Department of Political Science at Yale University. 
 
 **I am on the academic job market for 2025–26.**
 
-My research spans AI policy, digital governance, and AI in policy-making. Substantively, I examine how governance strategies and generative AI jointly affect public attitude, mislead decision-making, and influence policy support. These dynamics can produce unintended consequences in Asia and globally. Methodologically, I combine computational text, image, and network analysis with survey and human-AI conversational experiments.
+My research spans AI policy, digital governance, and AI in policy-making. Substantively, I examine how governance strategies and generative AI jointly affect public attitude, mislead decision-making, and influence policy support. These dynamics can produce unintended consequences in Asia and globally. Methodologically, I combine computational text, image, and network analysis with survey and human–AI conversational experiments.
 
-I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/4cahelmgd1tqvslrhkgrx/Job_Market_Paper.pdf?rlkey=p2k2syeit3i4qp7wytmzwxiq9&st=cos23949&dl=0](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) under review at *Government Information Quarterly*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
+I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) under review at *Government Information Quarterly*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
 
-My teaching experence include courses related to comparative politics, political communication, Asian studies, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
+My teaching experience includes courses related to comparative politics, political communication, Asian studies, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
 
 My CV is [here](https://www.dropbox.com/scl/fi/4tangaud2cg3p1nq69rv8/ChuyaoWANG_LSE_CV_Website.pdf?rlkey=80gjqmnom5fzcrfm7ialj0zi0&st=mgnsmsj7&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
 
