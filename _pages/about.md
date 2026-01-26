@@ -32,8 +32,7 @@ My CV is [here](https://www.dropbox.com/scl/fi/4tangaud2cg3p1nq69rv8/ChuyaoWANG_
       <li>Digital Governance</li>
       <li>Computational Social Science</li>
       <li>AI for Social Science Research</li>
-    </ul>
-  </div>
+
 
   <!-- Right Column: Education -->
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
@@ -66,4 +65,3 @@ My CV is [here](https://www.dropbox.com/scl/fi/4tangaud2cg3p1nq69rv8/ChuyaoWANG_
     </ul>
   </div>
 
-</div>
