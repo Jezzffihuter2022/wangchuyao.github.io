@@ -14,9 +14,9 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 
 My research spans human–AI communication, computational communication, and digital governance. Substantively, I examine how generative AI and AI-mediated information reshape public trust, communicative reasoning, and decision-making, with implications for governance and institutional legitimacy across Asia and globally. Methodologically, I combine computational text, image, and network analysis with human–AI conversational experiments and large-scale surveys.
 
-I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
+I have authored 8 papers, all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0), Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
 
-My teaching experience includes courses related to political communication, communication technology, Asian studies, and quantitative methods, with formal pedagogical training and excellent teaching evaluations.
+My teaching experience includes courses related to political communication, communication technology, Asian studies, and quantitative methods, with formal pedagogical training and an excellent average teaching evaluation (4.97/5).
 
 My CV is [here](https://www.dropbox.com/scl/fi/4tangaud2cg3p1nq69rv8/ChuyaoWANG_LSE_CV_Website.pdf?rlkey=80gjqmnom5fzcrfm7ialj0zi0&st=mgnsmsj7&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
 
