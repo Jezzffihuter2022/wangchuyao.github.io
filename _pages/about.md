@@ -12,11 +12,12 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 
 **I am on the academic job market for 2025–26.**
 
-My research spans human–AI communication, computational communication, and digital governance. Substantively, I examine how generative AI and AI-mediated information reshape public trust, communicative reasoning, and decision-making, with implications for governance and institutional legitimacy across Asia and globally. Methodologically, I combine computational text, image, and network analysis with human–AI conversational experiments and large-scale surveys.
+My research spans human–AI communication, computational communication, and digital governance, with a focus on human-centered evaluation of large language models and AI-mediated information systems.
+Substantively, I examine how generative AI and AI-mediated information reshape public trust, communicative reasoning, and decision-making, with implications for governance and institutional legitimacy across sociopolitical contexts. Methodologically, I combine controlled LLM generation, computational text, image, and network analysis with human–AI conversational experiments and large-scale surveys.
 
-My papers are all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) that is Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, and Google.
+My papers are all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) that is Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, Google, and Social Science Research Council (USA).
 
-My teaching experience includes courses related to political communication, communication technology, Asian studies, and quantitative methods, with formal pedagogical training and an excellent average teaching evaluation (4.97/5).
+I also have teaching experience in quantitative methods and communication-related courses, with formal pedagogical training and an excellent average teaching evaluation (4.97/5).
 
 My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_LSE_CV_Website.pdf?rlkey=vk1egrkaa26hsjgwerq2tv5fb&st=g8n1ts78&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
 
@@ -27,11 +28,11 @@ My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
     <h3 style="margin-bottom: 0.5rem;">Research Interests</h3>
     <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
-      <li>Human-AI Communication
-      <li>Political Communication and Public Opinion</li>
-      <li>Digital Governance</li>
-      <li>Computational Social Science</li>
-      <li>AI for Social Science Research</li>
+      <li>Human–AI Communication and Public Opinion</li>
+      <li>Computational Communication</li>
+      <li>Digital Governance and Algorithmic Accountability</li>
+      <li>Human-Centered Evaluation of Generative AI</li>
+      <li>Cross-National AI Assessment</li>
 
 
   <!-- Right Column: Education -->
