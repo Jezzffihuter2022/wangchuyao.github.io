@@ -5,16 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-I investigate how state strategies and generative AI jointly affect citizens’ perceptions of political information, constrain political expression, and influence policy preferences by combining computational and experimental methods.
+I investigate how generative AI and AI-mediated communication reshape public perceptions of information credibility, communicative expression, and policy preferences, with implications for governance and institutional decision-making, using computational and experimental methods.
 
-My research program has produced **8 papers** with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions under review at *Government Information Quarterly*, *PNAS Nexus*, *Regulation & Governance*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. My research has received support from competitive grants from LSE, OpenAI, Google, and Social Science Research Council (USA).
+My research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions Revise and Resubmit at *Telematics and Informatics*, under review at *PNAS Nexus*, *Information, Communication and Society*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. 
 
 
 ## Job Market Paper
 
 **[1] Scope of Public Aversion to AI-labeled Policy Information: A Survey Experiment** 
 
-First and corresponding author; under review at *Government Information Quarterly*; IF = 10.0, SSCI Q1
+First and corresponding author; Revise and Resubmit at *Telematics and Informatics*; IF = 8.3, SSCI Q1
 
 Full text [online](https://www.dropbox.com/scl/fi/dj2nuqcqevgtjgxazy1xy/Job_Market_Paper.pdf?rlkey=b0edp511k88eme2s5mww9y31s&st=ltul8bhu&dl=0)
 
@@ -75,17 +75,15 @@ Sole and corresponding author
 &nbsp;&nbsp;&nbsp;&nbsp;Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Summer Institute in Computational Social Science (SICSS 2021)
 
-**Political Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2024)  
-&nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of European Political Science Association (EPSA 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;Annual Meeting of Society for Political Methodology (PolMeth 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;Annual Meeting of Society for Political Methodology, Europe (PolMeth Europe 2025)  
-
 **Communication**  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of International Communication Association (ICA 2025)  
 &nbsp;&nbsp;&nbsp;&nbsp;National Communication Association Annual Convention (NCA 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Chinese Internet Research Conference (CIRC 2022)  
+
+**Political Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of European Political Science Association (EPSA 2025)  
 
 **Sociology**  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of American Sociological Association (ASA 2025)  
