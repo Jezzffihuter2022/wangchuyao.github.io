@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I investigate how generative AI and AI-mediated communication reshape public perceptions of information credibility, communicative expression, and policy preferences, with implications for governance and institutional decision-making, using computational and experimental methods.
+I develop human-centered evaluation frameworks for generative AI, examining how AI-mediated communication reshapes public perceptions of information credibility, communicative expression, and policy preferences, with implications for governance and institutional decision-making. 
 
-My research program has produced 8 papers with 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions Revise and Resubmit at *Telematics and Informatics*, under review at *PNAS Nexus*, *Information, Communication and Society*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. 
+My research program has produced 8 papers, including 5 as first author and 6 as corresponding author. These include a publication in *Humanities and Social Sciences Communications*, submissions Revise and Resubmit at *Telematics and Informatics*, under review at *PNAS Nexus*, *Information, Communication and Society*, *The International Journal of Press/Politics*, and projects targeting *PNAS*. 
 
 
 ## Job Market Paper
