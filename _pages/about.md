@@ -15,7 +15,7 @@ Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of
 My research spans human–AI communication, computational communication, and digital governance, with a focus on human-centered evaluation of large language models and AI-mediated information systems.
 Substantively, I examine how generative AI and AI-mediated information reshape public trust, communicative reasoning, and decision-making, with implications for governance and institutional legitimacy across sociopolitical contexts. Methodologically, I combine controlled LLM generation, computational text, image, and network analysis with human–AI conversational experiments and large-scale surveys.
 
-My papers are all published, under review, or in preparation for leading journals. These include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) that is Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, Google, and Social Science Research Council (USA).
+My key research projects include my [job market paper](https://www.dropbox.com/scl/fi/b7ebqft5cpj5uciymmrja/Job_Market_Paper.pdf?rlkey=qm4w1yes5zhm1av27rks51fuv&st=b6hznbxa&dl=0) that is Revise and Resubmit at *Telematics and Informatics*, and a [publication](https://www.nature.com/articles/s41599-024-04350-1) in *Humanities and Social Sciences Communications* (Nature Portfolio). I am working on a paper targeting *PNAS*, supported by grants from LSE, OpenAI, Google, and the Social Science Research Council (USA).
 
 I also have teaching experience in quantitative methods and communication-related courses, with formal pedagogical training and an excellent average teaching evaluation (4.97/5).
 
@@ -33,7 +33,8 @@ My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_
       <li>Digital Governance and Algorithmic Accountability</li>
       <li>Human-Centered Evaluation of Generative AI</li>
       <li>Cross-National AI Assessment</li>
-
+  </ul>
+</div>
 
   <!-- Right Column: Education -->
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
