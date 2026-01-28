@@ -61,14 +61,14 @@ First and corresponding author; in prepartion for *Proceedings of the National A
 - Investigated how AI sycophancy distorts public perceptions and polarizes public discussions
 - Developed a human-AI conversational experiment with personalization and dialogue framing
 
-**[7] How AI Labeling Affects Policy Support in Social Networks: Social Simulation and Survey Experiment**  
+**[7] How AI Labeling Affects Policy Preference in Social Networks: Simulation and Experiment**  
 Second and corresponding author  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
-**Advancing Heterogeneous Treatment Effect Analysis with Machine Learning and Causal Inference**  
-Sole and corresponding author
+**Silicon Respondents, Homogenized Opinions? Benchmarking AI Survey Simulation Against Human Responses**  
+Sole author
 
-## Summer Institute and Conference Acceptances  
+## Additional Training and Conference Acceptances  
 
 **Additional Training**  
 &nbsp;&nbsp;&nbsp;&nbsp;Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
