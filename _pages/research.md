@@ -70,19 +70,16 @@ Sole and corresponding author
 
 ## Summer Institute and Conference Acceptances  
 
-**Summer Institutes**  
-&nbsp;&nbsp;&nbsp;&nbsp;Oxford Internet Institute Summer Doctoral Program (SDP 2025)  
+**Additional Training**  
 &nbsp;&nbsp;&nbsp;&nbsp;Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Summer Institute in Computational Social Science (SICSS 2021)
 
 **Communication**  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of International Communication Association (ICA 2025)  
 &nbsp;&nbsp;&nbsp;&nbsp;National Communication Association Annual Convention (NCA 2024)  
-&nbsp;&nbsp;&nbsp;&nbsp;Chinese Internet Research Conference (CIRC 2022)  
 
 **Political Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;American Political Science Association Annual Meeting (APSA 2025, APSA 2024)  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of European Political Science Association (EPSA 2025)  
 
 **Sociology**  
