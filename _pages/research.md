@@ -68,11 +68,11 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 **Silicon Respondents, Homogenized Opinions? Benchmarking AI Survey Simulation Against Human Responses**  
 Sole author
 
-## Additional Training and Conference Acceptances  
+## Invited Talks
+&nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong
+&nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen
 
-**Additional Training**  
-&nbsp;&nbsp;&nbsp;&nbsp;Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)  
-&nbsp;&nbsp;&nbsp;&nbsp;Summer Institute in Computational Social Science (SICSS 2021)
+## Additional Training and Conference Acceptances  
 
 **Communication**  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of International Communication Association (ICA 2025)  
