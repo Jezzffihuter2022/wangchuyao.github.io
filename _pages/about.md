@@ -64,6 +64,12 @@ My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_
           Shandong University (SDU)
         </span>
       </li>
+      <li>
+        Additional Training<br>
+        <span style="display:inline-block; padding-left: 1em;">
+          Oxford Large Language Models Workshop for Social Science (Oxford LLMs 2024)<br>
+          Summer Institute in Computational Social Science (SICSS 2021)
+        </span>
+      </li>
     </ul>
   </div>
-
