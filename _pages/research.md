@@ -69,8 +69,8 @@ Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 Sole author
 
 ## Invited Talks
-&nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong
-&nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen
+&nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong (2025) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen (2025)
 
 ## Additional Training and Conference Acceptances  
 
