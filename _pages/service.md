@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-I contribute to academic service through initiative leadership, peer reviewing, community building, and stakeholder outreach.
+I contribute to academic service through initiative leadership, community building, stakeholder outreach, peer reviewing, and quality assurance.
 
 **Founding Member**  
 Inaugural Organizing Committee, Ph.D. Affiliate Network, LSE Data Science Institute, 2025-26
