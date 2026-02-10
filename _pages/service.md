@@ -27,5 +27,4 @@ International Communication Association (ICA), 2024-25
 National Communication Association (NCA), 2024
 
 **Quality Assurance**
-
-Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit and the University of Sussex, 2026
+Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit, 2026
