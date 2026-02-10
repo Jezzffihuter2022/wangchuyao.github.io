@@ -28,4 +28,4 @@ National Communication Association (NCA), 2024
 
 **Quality Assurance**
 
-Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit and the University of Sussex 
+Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit and the University of Sussex, 2026
