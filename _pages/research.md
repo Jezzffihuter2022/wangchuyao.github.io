@@ -65,12 +65,13 @@ First and corresponding author; in prepartion for *Proceedings of the National A
 Second and corresponding author  
 Extended abstract at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320375)
 
-**Silicon Respondents, Homogenized Opinions? Benchmarking AI Survey Simulation Against Human Responses**  
+**[8] Silicon Respondents, Homogenized Opinions? Benchmarking AI Survey Simulation Against Human Responses**  
 Sole author
 
 ## Invited Talks
 &nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong (2025) <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen (2025)
+&nbsp;&nbsp;&nbsp;&nbsp; Lingnan University, Hong Kong (2026) 
 
 ## Additional Training and Conference Acceptances  
 
