@@ -26,6 +26,5 @@ International Conference on Computational Social Science (IC2S2), 2024-25
 International Communication Association (ICA), 2024-25  
 National Communication Association (NCA), 2024
 
-**Quality Assurance**
-
+**Quality Assurance** <br>
 Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit, 2026
