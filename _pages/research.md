@@ -72,7 +72,7 @@ Sole author
 &nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong (2025) <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen (2025)
 
-## Additional Training and Conference Acceptances  
+## Conference Acceptances  
 
 **Communication**  
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Conference of International Communication Association (ICA 2025)  
