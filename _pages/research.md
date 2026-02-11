@@ -71,7 +71,6 @@ Sole author
 ## Invited Talks
 &nbsp;&nbsp;&nbsp;&nbsp; University of Hong Kong (2025) <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The Chinese University of Hong Kong, Shenzhen (2025)
-&nbsp;&nbsp;&nbsp;&nbsp; Lingnan University, Hong Kong (2026) 
 
 ## Additional Training and Conference Acceptances  
 
