@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a Ph.D. candidate in Social Research Methods at the [Department of Methodology](https://www.lse.ac.uk/Methodology), London School of Economics and Political Science (LSE), and a Ph.D. Affiliate at the LSE [Data Science Institute](https://www.lse.ac.uk/DSI). I was a Visiting Assistant in Research at Yale University. 
 
-**I am on the academic job market for 2025–26.**
+**I am on the job market for 2025–26.**
 
 My research spans human–AI communication, computational communication, and digital governance, with a focus on human-centered evaluation of large language models and AI-mediated information systems.
 Substantively, I examine how generative AI and AI-mediated information reshape public trust, communicative reasoning, and decision-making, with implications for governance and institutional legitimacy across sociopolitical contexts. Methodologically, I combine controlled LLM generation, computational text, image, and network analysis with human–AI conversational experiments and large-scale surveys.
