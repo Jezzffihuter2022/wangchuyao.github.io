@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research addresses core questions in public administration and governance, examining how digital technologies reshape administrative capacity, accountability, and institutional legitimacy in China and beyond, combining experimental and computational methods.
+My research addresses core questions in public administration and governance, examining how digital technologies reshape delegation, accountability, administrative capacity, and institutional legitimacy in China and beyond, combining experimental and computational methods.
 
 My research program has produced 8 papers, including 5 as first author and 6 as corresponding author. These include publications in *Telematics and Informatics* and *Humanities and Social Sciences Communications*, with articles under review at *Governance*, *Policy & Internet*, and *Government Information Quarterly*.
 
