@@ -16,7 +16,7 @@ My key research projects include my [job market paper](https://doi.org/10.1016/j
 
 I also have teaching experience in quantitative methods, public policy, and comparative politics courses, with formal pedagogical training and an excellent average teaching evaluation (4.97/5).
 
-My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_LSE_CV_Website.pdf?rlkey=vk1egrkaa26hsjgwerq2tv5fb&st=g8n1ts78&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
+My CV is [here](https://www.dropbox.com/scl/fi/aboodgqan3jmqhaiz8j50/ChuyaoWANG_LSE_CV_Website.pdf?rlkey=6p0wxbheehhuz0r557vjg0q00&st=55p5oywu&dl=0). Please feel free to contact me at c.wang85@lse.ac.uk.
 
 <!-- Two-column layout: Research Interests + Education -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem;">
