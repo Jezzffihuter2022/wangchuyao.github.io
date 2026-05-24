@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a final-year Ph.D. candidate in Social Research Methods at the [Department of Methodology](https://www.lse.ac.uk/Methodology), London School of Economics and Political Science (LSE), and a Ph.D. Affiliate at the LSE [Data Science Institute](https://www.lse.ac.uk/DSI). I was a visiting PhD student at Yale University, Department of Political Science. 
+Welcome! I am a final-year Ph.D. candidate in Social Research Methods at the [Department of Methodology](https://www.lse.ac.uk/Methodology), London School of Economics and Political Science (LSE), and a Ph.D. Affiliate at the LSE [Data Science Institute](https://www.lse.ac.uk/DSI). I was a visiting researcher at Yale University, Department of Political Science. 
 
 My research examines how digital transformation in public administration and policy reshapes accountability, decision-making, and institutional legitimacy, combining experimental and computational methods. Substantively, I study how AI transparency policies, AI-assisted deliberation, and algorithmic decision-making affect public trust, administrative judgment, and policy outcomes in China and beyond. Methodologically, I combine survey experiments and citizen–state conversational experiments with computational text, image, and network analysis.
 
