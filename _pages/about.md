@@ -30,7 +30,7 @@ My CV is [here](https://www.dropbox.com/scl/fi/p9fr05sdie4vfbo3vpwa0/ChuyaoWANG_
       <li>Public Administration and Digital Governance</li>
       <li>Delegation, Accountability, and Institutional Legitimacy</li>
       <li>AI Governance and Algorithmic Decision-Making</li>
-      <li>Computational and Experimental Methods</li>
+      <li>Experimental, Behavioral, and Computational Methods</li>
       <li>Chinese Governance and State Capacity</li>
   </ul>
 </div>
