@@ -30,6 +30,6 @@ National Communication Association (NCA), 2024
 Reviewer, Metascience Novelty Indicators Challenge, UK Government Metascience Unit, 2026
 
 **Applied Research Experiences**
-- China National High-Tech Industry Innovation Center
-- Boston Consulting Group
-- ByteDance (TikTok)
+China National High-Tech Industry Innovation Center
+Boston Consulting Group
+ByteDance (TikTok)
