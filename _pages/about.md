@@ -25,9 +25,9 @@ My CV is [here](https://www.dropbox.com/scl/fi/aboodgqan3jmqhaiz8j50/ChuyaoWANG_
   <div style="flex: 1; min-width: 280px; font-size: 0.85em;">
     <h3 style="margin-bottom: 0.5rem;">Research Interests</h3>
     <ul style="list-style-type: disc; padding-left: 1em; margin-top: 0; margin-bottom: 0.5rem;">
-      <li>Public Administration and Digital Governance</li>
+      <li>Public Administration and Policy</li>
       <li>Delegation, Accountability, and Institutional Legitimacy</li>
-      <li>AI Governance and Algorithmic Decision-Making</li>
+      <li>Digital Governance and AI in Policy-making</li>
       <li>Experimental, Behavioral, and Computational Methods</li>
       <li>Chinese Governance and State Capacity</li>
   </ul>
